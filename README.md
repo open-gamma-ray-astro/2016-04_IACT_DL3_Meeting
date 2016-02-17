@@ -12,12 +12,25 @@ Boisson](http://www.iau.org/administration/membership/individual/7665/) and
 * Start: 10 am on Wednesday, April 6, 2016
 * End: noon on Friday, April 8, 2016
 
-* Pre-meeting planning telcon: tbd (set up Doodle)
+* Pre-meeting planning telcon: tbd, please fill the [doodle](http://doodle.com/poll/c2c22zhg3ruk85n2)
 * Post-meeting follow-up telcon: tbd (will be scheduled at the f2f meeting)
 
 ## Where?
 
-Observatoire de Meudon
+Observatoire de Paris, site de Meudon, 
+Place J. Janssen, 92190 - Meudon
+
+The meeting will be held in the conference room, downstairs of Builging 9, the "big dom". See the [access map](https://www.obspm.fr/acces-au-site-de-meudon.html?lang=en)
+
+Practical informations:
+A list of a few convenient hotels in Paris can be found [here](http://lesia.obspm.fr/List-of-some-convenient-hotels.html)
+The selected hotels are close to Gare Montparnasse serving Meudon SNCF train Meudon and Bellevue stations or close to RER C stop (regional line) serving Meudon Val Fleury RER station.
+
+From the train stations in Meudon, the Observatory is about 20 minutes walk uphill, whatever the station.  From the SNCF station "Bellevue" (in Meudon) to the Observatory you may catch the 9:20 am bus, TIM, going up to the Observatory. Your next chance is one hour later... 
+
+Taxi in Meudon
+"Central taxis", 24h/24h, 7d/7d  : 0146309012  or  0673385301
+
 
 ## Introduction
 
@@ -86,4 +99,5 @@ the process. The goal is not to "produce and decide on final formats".
 * Christoph Deil
 * Catherine Boisson
 * Tarek Hassan
+* Immacolata Donnarumma
 * (if your name isn't here yet, but you'd like to attend, please let us know!)
