@@ -12,7 +12,7 @@ Boisson](http://www.iau.org/administration/membership/individual/7665/) and
 * Start: 10 am on Wednesday, April 6, 2016
 * End: noon on Friday, April 8, 2016
 
-* Pre-meeting planning telcon: tbd, please fill the [doodle](http://doodle.com/poll/c2c22zhg3ruk85n2)
+* Pre-meeting planning telcon: tbd, Doodle will be set up soon.
 * Post-meeting follow-up telcon: tbd (will be scheduled at the f2f meeting)
 
 ## Where?
@@ -86,14 +86,14 @@ We'll start the meeting with a series of short presentations, to make sure every
 
 Confirmed:
 
-* Catherine Boisson -- Welcome, logistics
-* Tarek Hassan -- Proposed DL3 IRF format and prototype code (not public yet)
-* Christoph Deil -- open-gamma-ray-astro [mailing list](https://lists.nasa.gov/mailman/listinfo/open-gamma-ray-astro), [Github org](https://github.com/open-gamma-ray-astro) and [gamma-astro-data-format](http://gamma-astro-data-formats.readthedocs.org/en/latest/) specs.
-* Jürgen Knödlseder -- DL3 in [Gammalib](http://cta.irap.omp.eu/gammalib/) and  [ctools](http://cta.irap.omp.eu/ctools/)
+* Catherine Boisson - Welcome, logistics
+* Tarek Hassan - Proposed DL3 IRF format and prototype code (not public yet)
+* Christoph Deil - open-gamma-ray-astro [mailing list](https://lists.nasa.gov/mailman/listinfo/open-gamma-ray-astro), [Github org](https://github.com/open-gamma-ray-astro) and [gamma-astro-data-format](http://gamma-astro-data-formats.readthedocs.org/en/latest/) specs.
+* Jürgen Knödlseder - DL3 in [Gammalib](http://cta.irap.omp.eu/gammalib/) and  [ctools](http://cta.irap.omp.eu/ctools/)
 
 Ideas:
 
-* Maybe -- DL3 in [Gammapy](https://gammapy.readthedocs.org/en/latest/)
+* Maybe - DL3 in [Gammapy](https://gammapy.readthedocs.org/en/latest/)
 * Wanted: status of DL3 data export from HESS, VERITAS, MAGIC, FACT, ASTRI
 * Wanted: short presentations of use cases or "I think we should do this for DL3 ..."
 * (if you'd like to give a presentation, please let uns know!)
