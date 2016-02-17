@@ -88,7 +88,7 @@ Confirmed:
 
 * Catherine Boisson -- Welcome, logistics
 * Tarek Hassan -- Proposed DL3 IRF format and prototype code (not public yet)
-* Christoph Deil -- An attempt to collaborate more on DL3: [open-gamma-ray-astro mailing list](https://lists.nasa.gov/mailman/listinfo/open-gamma-ray-astro), [open-gamma-ray-astro Github repo](https://github.com/open-gamma-ray-astro) and [gamma-astro-data-format](http://gamma-astro-data-formats.readthedocs.org/en/latest/) specs.
+* Christoph Deil -- open-gamma-ray-astro [mailing list](https://lists.nasa.gov/mailman/listinfo/open-gamma-ray-astro), [Github org](https://github.com/open-gamma-ray-astro) and [gamma-astro-data-format](http://gamma-astro-data-formats.readthedocs.org/en/latest/) specs.
 * Jürgen Knödlseder -- DL3 in [Gammalib](http://cta.irap.omp.eu/gammalib/) and  [ctools](http://cta.irap.omp.eu/ctools/)
 
 Ideas:
@@ -111,11 +111,11 @@ Ideas:
 
 ## Participants
 
-* Catherine Boisson
-* Christoph Deil
+* [Catherine Boisson](https://github.com/cboisson)
+* [Christoph Deil](https://github.com/cdeil)
 * Immacolata Donnarumma
-* Jürgen Knödlseder
-* Tarek Hassan
+* [Jürgen Knödlseder](https://github.com/jknodlseder)
+* [Tarek Hassan](https://github.com/TarekHC)
 * (if your name isn't here yet, but you'd like to attend, please let us know!)
 
 (alphabetical order by first name)
