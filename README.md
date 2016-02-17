@@ -67,12 +67,10 @@ formats they use at [gamma-astro-data-formats](http://gamma-astro-data-formats.r
 
 The main goal of this meeting is to work on the DL3 data model and formats.
 
-* Present [gamma-astro-data-formats](http://gamma-astro-data-formats.readthedocs.org/en/latest/) and other preliminary formats in use.
+* Start with summary presentations on DL3 in the various IACTs and codes that produce or consume DL3 data and IRFs.
 * Gather use cases and see which ones are possible / not possible with the existing formats.
 * Extend existing formats or create new ones that cover more (all?) use cases.
-* Write down open specs (so that they are visible by all, not just CTA members) that can form the basis for prototyping for the next months
-for data producers (mainly existing IACTs and simulated CTA data) and consumers
-(mainly science tool codes).
+* Write down open specs (so that they are visible by all, not just CTA members, e.g. at [gamma-astro-data-formats](http://gamma-astro-data-formats.readthedocs.org/en/latest/)) that can form the basis for prototyping for the next months for data producers (mainly existing IACTs and simulated CTA data) and consumers (mainly science tool codes).
 
 Finding a good data model and format and getting community adoption will be an
 ongoing task for the coming years. This meeting is just an attempt to speed up
