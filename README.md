@@ -82,7 +82,22 @@ the process. The goal is not to "produce and decide on final formats".
 
 ### Wednesday afternoon
 
-* Presentations: tbd (please let us know if you'd like to present something!)
+We'll start the meeting with a series of short presentations, to make sure everyone's aware of the status of existing efforts.
+
+Confirmed:
+
+* Catherine Boisson -- Welcome, logistics
+* Tarek Hassan -- Proposed DL3 IRF format and prototype code (not public yet)
+* Christoph Deil -- An attempt to collaborate more on DL3: [open-gamma-ray-astro mailing list](https://lists.nasa.gov/mailman/listinfo/open-gamma-ray-astro), [open-gamma-ray-astro Github repo](https://github.com/open-gamma-ray-astro) and [gamma-astro-data-format](http://gamma-astro-data-formats.readthedocs.org/en/latest/) specs.
+* Jürgen Knödlseder -- DL3 in [Gammalib](http://cta.irap.omp.eu/gammalib/) and  [ctools](http://cta.irap.omp.eu/ctools/)
+
+Ideas:
+
+* Maybe -- DL3 in [Gammapy](https://gammapy.readthedocs.org/en/latest/)
+* Wanted: status of DL3 data export from HESS, VERITAS, MAGIC, FACT, ASTRI
+* Wanted: short presentations of use cases or "I think we should do this for DL3 ..."
+* (if you'd like to give a presentation, please let uns know!)
+
 * Plenary discussion session
 
 ## Thursday
@@ -96,8 +111,11 @@ the process. The goal is not to "produce and decide on final formats".
 
 ## Participants
 
-* Christoph Deil
 * Catherine Boisson
-* Tarek Hassan
+* Christoph Deil
 * Immacolata Donnarumma
+* Jürgen Knödlseder
+* Tarek Hassan
 * (if your name isn't here yet, but you'd like to attend, please let us know!)
+
+(alphabetical order by first name)
