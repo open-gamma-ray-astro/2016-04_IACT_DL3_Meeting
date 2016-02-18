@@ -78,7 +78,7 @@ the process. The goal is not to "produce and decide on final formats".
 
 ## Agenda
 
-### Wednesday afternoon
+### Wednesday
 
 We'll start the meeting with a series of short presentations, to make sure everyone's aware of the status of existing efforts.
 
