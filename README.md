@@ -88,11 +88,12 @@ Confirmed:
 * Tarek Hassan - Proposed DL3 IRF format and prototype code (not public yet)
 * Christoph Deil - open-gamma-ray-astro [mailing list](https://lists.nasa.gov/mailman/listinfo/open-gamma-ray-astro), [Github org](https://github.com/open-gamma-ray-astro) and [gamma-astro-data-format](http://gamma-astro-data-formats.readthedocs.org/en/latest/) specs.
 * Jürgen Knödlseder - DL3 in [Gammalib](http://cta.irap.omp.eu/gammalib/) and  [ctools](http://cta.irap.omp.eu/ctools/)
+* Gernot Maier - Status report DL3 in VERITAS
 
 Ideas:
 
 * Maybe - DL3 in [Gammapy](https://gammapy.readthedocs.org/en/latest/)
-* Wanted: status of DL3 data export from HESS, VERITAS, MAGIC, FACT, ASTRI
+* Wanted: status of DL3 data export from HESS, MAGIC, FACT, ASTRI
 * Wanted: short presentations of use cases or "I think we should do this for DL3 ..."
 * (if you'd like to give a presentation, please let uns know!)
 
@@ -111,6 +112,7 @@ Ideas:
 
 * [Catherine Boisson](https://github.com/cboisson)
 * [Christoph Deil](https://github.com/cdeil)
+* [Gernot Maier](https://github.com/GernotMaier)
 * Immacolata Donnarumma
 * [Jürgen Knödlseder](https://github.com/jknodlseder)
 * [Tarek Hassan](https://github.com/TarekHC)
