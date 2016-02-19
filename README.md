@@ -3,8 +3,7 @@
 ## Contact
 
 If you have any questions or suggestions, or would like to attend, please
-contact [Catherine
-Boisson](http://www.iau.org/administration/membership/individual/7665/) and
+contact [Catherine Boisson](http://www.iau.org/administration/membership/individual/7665/) and
 [Christoph Deil](https://github.com/cdeil).
 
 ## When?
