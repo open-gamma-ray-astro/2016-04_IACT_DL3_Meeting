@@ -93,7 +93,7 @@ Confirmed:
 Ideas:
 
 * Maybe - DL3 in [Gammapy](https://gammapy.readthedocs.org/en/latest/)
-* Wanted: status of DL3 data export from HESS, MAGIC, FACT, ASTRI
+* Wanted: status of DL3 data export from HESS, MAGIC, FACT
 * Wanted: short presentations of use cases or "I think we should do this for DL3 ..."
 * (if you'd like to give a presentation, please let uns know!)
 
