@@ -25,11 +25,12 @@ Practical informations:
 A list of a few convenient hotels in Paris can be found [here](http://lesia.obspm.fr/List-of-some-convenient-hotels.html)
 The selected hotels are close to Gare Montparnasse serving Meudon SNCF train Meudon and Bellevue stations or close to RER C stop (regional line) serving Meudon Val Fleury RER station.
 
+There are also a few options to book a room in Meudon within walking distance via [airbnb](https://www.airbnb.com/s/Meudon--France).
+
 From the train stations in Meudon, the Observatory is about 20 minutes walk uphill, whatever the station.  From the SNCF station "Bellevue" (in Meudon) to the Observatory you may catch the 9:20 am bus, TIM, going up to the Observatory. Your next chance is one hour later... 
 
 Taxi in Meudon
 "Central taxis", 24h/24h, 7d/7d  : 0146309012  or  0673385301
-
 
 ## Introduction
 
