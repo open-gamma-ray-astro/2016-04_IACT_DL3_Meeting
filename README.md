@@ -89,6 +89,7 @@ Confirmed:
 * Christoph Deil - open-gamma-ray-astro [mailing list](https://lists.nasa.gov/mailman/listinfo/open-gamma-ray-astro), [Github org](https://github.com/open-gamma-ray-astro) and [gamma-astro-data-format](http://gamma-astro-data-formats.readthedocs.org/en/latest/) specs.
 * Jürgen Knödlseder - DL3 in [Gammalib](http://cta.irap.omp.eu/gammalib/) and  [ctools](http://cta.irap.omp.eu/ctools/)
 * Gernot Maier - Status report DL3 in VERITAS
+* Imma Donnarumma - DL3 IRF concept and implementation status in the framework of the MINI-ARRAY pipeline
 
 Ideas:
 
