@@ -116,6 +116,7 @@ Ideas:
 * [Gernot Maier](https://github.com/GernotMaier)
 * Immacolata Donnarumma
 * [Jürgen Knödlseder](https://github.com/jknodlseder)
+* [Kai Brügge](https://github.com/mackaiver)
 * [Tarek Hassan](https://github.com/TarekHC)
 * (if your name isn't here yet, but you'd like to attend, please let us know!)
 
