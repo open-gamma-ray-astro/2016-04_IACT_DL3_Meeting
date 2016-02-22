@@ -113,6 +113,7 @@ Ideas:
 
 * [Catherine Boisson](https://github.com/cboisson)
 * [Christoph Deil](https://github.com/cdeil)
+* [Daniela Dorner](https://github.com/dadorner)
 * [Gernot Maier](https://github.com/GernotMaier)
 * Immacolata Donnarumma
 * [Jürgen Knödlseder](https://github.com/jknodlseder)
