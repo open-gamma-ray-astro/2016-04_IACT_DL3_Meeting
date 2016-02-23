@@ -11,7 +11,7 @@ contact [Catherine Boisson](http://www.iau.org/administration/membership/individ
 * Start: 10 am on Wednesday, April 6, 2016
 * End: noon on Friday, April 8, 2016
 
-* Pre-meeting planning telcon: pleas fill the [Doodle](http://doodle.com/poll/c2c22zhg3ruk85n2)
+* Pre-meeting planning telcon: please fill the [Doodle](http://doodle.com/poll/c2c22zhg3ruk85n2)
 * Post-meeting follow-up telcon: tbd (will be scheduled at the f2f meeting)
 
 ## Where?
@@ -116,6 +116,7 @@ Ideas:
 * [Daniela Dorner](https://github.com/dadorner)
 * [Gernot Maier](https://github.com/GernotMaier)
 * Immacolata Donnarumma
+* [Julien Lefaucheur](https://github.com/jjlk)
 * [Jürgen Knödlseder](https://github.com/jknodlseder)
 * [Kai Brügge](https://github.com/mackaiver)
 * [Tarek Hassan](https://github.com/TarekHC)
