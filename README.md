@@ -32,6 +32,15 @@ From the train stations in Meudon, the Observatory is about 20 minutes walk uphi
 Taxi in Meudon
 "Central taxis", 24h/24h, 7d/7d  : 0146309012  or  0673385301
 
+## No remote participation
+
+There will be no possibility of remote participation for this meeting.
+
+Apologies if you would have liked to join the discussion but can't come!
+
+We have the experience that audio or video remote participation is usually distracting and slowing down the face-to-face discussion.
+Note that all presentation slides will be openly available in this repository and we also plan to write minutes for the discussion sessions, to provide a good basis for future online collaboration or meetings on the topic.
+
 ## Introduction
 
 This two-day face-to-face meeting will bring together people
