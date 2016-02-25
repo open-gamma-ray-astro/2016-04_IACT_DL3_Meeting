@@ -39,6 +39,7 @@ There will be no possibility of remote participation for this meeting.
 Apologies if you would have liked to join the discussion but can't come!
 
 We have the experience that audio or video remote participation is usually distracting and slowing down the face-to-face discussion.
+
 Note that all presentation slides will be openly available in this repository and we also plan to write minutes for the discussion sessions, to provide a good basis for future online collaboration or meetings on the topic.
 
 ## Introduction
