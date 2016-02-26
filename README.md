@@ -95,16 +95,18 @@ We'll start the meeting with a series of short presentations, to make sure every
 Confirmed:
 
 * Catherine Boisson - Welcome, logistics
-* Tarek Hassan - Proposed DL3 IRF format and prototype code (not public yet)
+* Tarek Hassan - Proposed DL3 IRF format and prototype code ([flexIRF](https://github.com/TarekHC/flexIRF))
 * Christoph Deil - open-gamma-ray-astro [mailing list](https://lists.nasa.gov/mailman/listinfo/open-gamma-ray-astro), [Github org](https://github.com/open-gamma-ray-astro) and [gamma-astro-data-format](http://gamma-astro-data-formats.readthedocs.org/en/latest/) specs.
 * Jürgen Knödlseder - DL3 in [Gammalib](http://cta.irap.omp.eu/gammalib/) and  [ctools](http://cta.irap.omp.eu/ctools/)
+* Christoph Deil - DL3 in [Gammapy](https://gammapy.readthedocs.org/en/latest/)
 * Gernot Maier - Status report DL3 in VERITAS
+* tbd (please volunteer!) -- Status report DL3 in HESS
+* tbd (please volunteer!) -- Status report DL3 in MAGIC
+* tbd (please volunteer!) -- Status report DL3 in FACT
 * Imma Donnarumma - DL3 IRF concept and implementation status in the framework of the MINI-ARRAY pipeline
 
 Ideas:
 
-* Maybe - DL3 in [Gammapy](https://gammapy.readthedocs.org/en/latest/)
-* Wanted: status of DL3 data export from HESS, MAGIC, FACT
 * Wanted: short presentations of use cases or "I think we should do this for DL3 ..."
 * (if you'd like to give a presentation, please let uns know!)
 
@@ -121,6 +123,8 @@ Ideas:
 
 ## Participants
 
+(alphabetical order by first name)
+
 * [Catherine Boisson](https://github.com/cboisson)
 * [Christoph Deil](https://github.com/cdeil)
 * [Daniela Dorner](https://github.com/dadorner)
@@ -132,4 +136,3 @@ Ideas:
 * [Tarek Hassan](https://github.com/TarekHC)
 * (if your name isn't here yet, but you'd like to attend, please let us know!)
 
-(alphabetical order by first name)
