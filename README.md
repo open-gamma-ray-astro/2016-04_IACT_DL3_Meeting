@@ -95,7 +95,7 @@ We'll start the meeting with a series of short presentations, to make sure every
 Confirmed:
 
 * Catherine Boisson - Welcome, logistics
-* Tarek Hassan - Proposed DL3 IRF format and prototype code ([flexIRF](https://github.com/TarekHC/flexIRF))
+* Tarek Hassan - Proposed DL3 IRF format and prototype code ([flexIRF](https://github.com/cta-observatory/flexIRF))
 * Christoph Deil - open-gamma-ray-astro [mailing list](https://lists.nasa.gov/mailman/listinfo/open-gamma-ray-astro), [Github org](https://github.com/open-gamma-ray-astro) and [gamma-astro-data-format](http://gamma-astro-data-formats.readthedocs.org/en/latest/) specs.
 * Jürgen Knödlseder - DL3 in [Gammalib](http://cta.irap.omp.eu/gammalib/) and  [ctools](http://cta.irap.omp.eu/ctools/)
 * Christoph Deil - DL3 in [Gammapy](https://gammapy.readthedocs.org/en/latest/)
