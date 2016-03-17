@@ -11,8 +11,14 @@ contact [Catherine Boisson](http://www.iau.org/administration/membership/individ
 * Start: 10 am on Wednesday, April 6, 2016
 * End: noon on Friday, April 8, 2016
 
-* Pre-meeting planning telcon: please fill the [Doodle](http://doodle.com/poll/c2c22zhg3ruk85n2)
-* Post-meeting follow-up telcon: tbd (will be scheduled at the f2f meeting)
+* Pre-meeting planning telcon:
+    * Purpose: plan the f2f meeting
+    * Please fill the [Doodle](http://doodle.com/poll/c2c22zhg3ruk85n2)
+    * Agenda and notes are [here](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/pre-meeting-telcon.md).
+* Post-meeting follow-up telcon:
+    * Purpose: short reports on action items and activities after the meeting; keep people in contact.
+    * Date / time tbd (will be scheduled at the f2f meeting)
+    * Agenda and notes will be [here](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/post-meeting-telcon.md).
 
 ## Where?
 
@@ -135,4 +141,3 @@ Ideas:
 * [Kai Brügge](https://github.com/mackaiver)
 * [Tarek Hassan](https://github.com/TarekHC)
 * (if your name isn't here yet, but you'd like to attend, please let us know!)
-
