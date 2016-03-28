@@ -6,8 +6,11 @@
 
 ## Connection details
 
-Connection from a single terminal (Windows, Tablet, Smartphone ...)      
-http://desktop.visio.renater.fr/scopia?ID=721534***1677&autojoin
+If you have questions how to connect, please email [Catherine Boisson]
+(http://www.iau.org/administration/membership/individual/7665/)
+
+Connection from a single terminal (Windows, Tablet, Smartphone ...):
+* http://desktop.visio.renater.fr/scopia?ID=721534***1677&autojoin
 
 otherwise: 
 * Telephone +33 4 26 68 73 07
@@ -37,7 +40,7 @@ formats. We'll do this at the f2f meeting.
 ## Agenda
 
 * Catherine or Christoph: go over the info in the [README.md](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/README.md)
-  to make sure everyone's aware of the logistics, agenda and goals for the meeting.
+  to make sure everyone's aware of the logistics, agenda, scope and goals for the f2f meeting.
 * Everyone: if you can, please share slides / documents / code / example files
   openly before the meeting, so that everyone has time to review and think about it.
 * Any additional speakers or participants that aren't listed yet?
