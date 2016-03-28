@@ -8,17 +8,17 @@ contact [Catherine Boisson](http://www.iau.org/administration/membership/individ
 
 ## When?
 
-* Start: 10 am on Wednesday, April 6, 2016
-* End: noon on Friday, April 8, 2016
-
+* Face-to-face meeting
+    * Start: 10 am on Wednesday, April 6, 2016
+    * End: noon on Friday, April 8, 2016
 * Pre-meeting planning telcon:
     * Purpose: plan the f2f meeting
-    * Please fill the [Doodle](http://doodle.com/poll/c2c22zhg3ruk85n2)
-    * Agenda and notes are [here](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/pre-meeting-telcon.md).
+    * March 29, 2016 at 6 pm CEST
+    * Agenda and notes at [pre-meeting-telcon.md](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/pre-meeting-telcon.md).
 * Post-meeting follow-up telcon:
     * Purpose: short reports on action items and activities after the meeting; keep people in contact.
-    * Date / time tbd (will be scheduled at the f2f meeting)
-    * Agenda and notes will be [here](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/post-meeting-telcon.md).
+    * Date / time: tbd (will be scheduled at the f2f meeting)
+    * Agenda and notes at [post-meeting-telcon.md](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/post-meeting-telcon.md).
 
 ## Where?
 
@@ -81,7 +81,7 @@ formats they use at [gamma-astro-data-formats](http://gamma-astro-data-formats.r
 
 ## Goals
 
-The main goal of this meeting is to work on the DL3 data model and formats.
+The main goal of this meeting is to work on the DL3 data model and data formats.
 
 * Start with summary presentations on DL3 in the various IACTs and codes that produce or consume DL3 data and IRFs.
 * Gather use cases and see which ones are possible / not possible with the existing formats.
@@ -95,6 +95,8 @@ the process. The goal is not to "produce and decide on final formats".
 ## Agenda
 
 ### Wednesday
+
+Start: 10 am
 
 We'll start the meeting with a series of short presentations, to make sure everyone's aware of the status of existing efforts.
 
@@ -117,15 +119,27 @@ Ideas:
 * Wanted: short presentations of use cases or "I think we should do this for DL3 ..."
 * (if you'd like to give a presentation, please let uns know!)
 
-* Plenary discussion session
+* Open plenary discussion session
+* Plan work for Thursday together on the board:
+  * Identify topics for working groups
+  * How much time to allocate for each?
+  * Everyone puts their name to what they are most interested in.
+  * Schedule parallel sessions.
+  * Identify 
 
 ## Thursday
 
+Start: 9 am
+
+The 
+
 * Split out into small working groups on sub-topics?
+* Summary from the sub-groups and discussion.
 
 ## Friday morning
 
-* Summary from the sub-groups and discussion.
+Start 9 am
+
 * Identify action items: who does what after the meeting?
 
 ## Participants
@@ -144,3 +158,27 @@ Ideas:
 * [Kai Brügge](https://github.com/mackaiver)
 * [Tarek Hassan](https://github.com/TarekHC)
 * (if your name isn't here yet, but you'd like to attend, please let us know!)
+
+## How to contribute to this repository?
+
+The main work product from this meeting will be presentation slides presented on Wednesday, as well as notes and documents written collaboratively during the meeting.
+
+We are using this Github repository to gather presentations and notes for this
+meeting: https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting
+
+Please help us gather notes, especially summaries of the parallel sessions, and
+identified action items for the coming months (for us, and for people that
+couldn't come to the meeting).
+
+To contribute, please make a Github account (it only takes a minute and is free)
+and make pull requests, adding files to the following folders:
+
+* [notes](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/notes) - Add notes as Markdown ``.md`` files. Use the [notes/template.md](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/notes/template.md) file as a starting point if you like.
+* If you want to do collaborative note taking, a Google doc with URL shared via
+email or Twitter is a good option (and copy & paste the content over to this repo after).
+* [presentations](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/presentations) - Add your presentation in PDF format if you want to present slides.
+Or just write down what you want to present in a Markdown file if you prefer.
+
+If you have any questions, ask [Christoph Deil](https://github.com/cdeil) or
+other participants that are familiar with Markdown and Github. If you don't want
+to use Github, just email files or notes to me and I'll add them to the repo.
