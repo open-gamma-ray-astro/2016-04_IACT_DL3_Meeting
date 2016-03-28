@@ -10,17 +10,17 @@ Connection from a single terminal (Windows, Tablet, Smartphone ...)
 http://desktop.visio.renater.fr/scopia?ID=721534***1677&autojoin
 
 otherwise: 
-Telephone +33 4 26 68 73 07
-GDS     +33 4 26 68 73 07 721534
-SIP     sip:721534@195.98.238.109              (via e.g. ekiga or linephone with Linux)
-H.323     h323:721534@mgmt.visio.renater.fr
-Conference number     721534 (end by #)
-Password             1677 (end by #)
+* Telephone +33 4 26 68 73 07
+* GDS     +33 4 26 68 73 07 721534
+* SIP     sip:721534@195.98.238.109              (via e.g. ekiga or linephone with Linux)
+* H.323     h323:721534@mgmt.visio.renater.fr
+* Conference number     721534 (end by #)
+* Password             1677 (end by #)
 
 Conference
-Title     DL3 pre meeting telconf
-Begin     29/03/2016 18:00 (GMT +2 Europe/Paris)
-Duration     02:00
+* Title     DL3 pre meeting telconf
+* Begin     29/03/2016 18:00 (GMT +2 Europe/Paris)
+* Duration     02:00
 
 ## Goals of this telcon
 
@@ -32,7 +32,7 @@ The goals of this telcon are:
   format, agenda, scope and goals of the f2f meeting
 
 The goal is **not** to start technical discussions on the data model and
-formats.
+formats. We'll do this at the f2f meeting.
 
 ## Agenda
 
