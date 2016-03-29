@@ -9,7 +9,7 @@ contact [Catherine Boisson](http://www.iau.org/administration/membership/individ
 ## When?
 
 * Face-to-face meeting
-    * Start: 10 am on Wednesday, April 6, 2016
+    * Start: 11 am on Wednesday, April 6, 2016
     * End: noon on Friday, April 8, 2016
 * Pre-meeting planning telcon:
     * Purpose: plan the f2f meeting
@@ -96,14 +96,14 @@ the process. The goal is not to "produce and decide on final formats".
 
 ### Wednesday
 
-Start: 10 am
+Start: 11 am
 
-We'll start the meeting with a series of short presentations, to make sure everyone's aware of the status of existing efforts.
+We'll start the meeting with a series of short presentations, to make sure
+everyone's aware of the status of existing efforts.
 
-Confirmed:
 
 * Catherine Boisson - Welcome, logistics
-* tbd - Overview DL3 in CTA, observer access, archive?
+* Catherine or Jose-Luis or ??? - Overview DL3 in CTA, observer access, archive?
 * Tarek Hassan - Proposed DL3 IRF format and prototype code ([flexIRF](https://github.com/cta-observatory/flexIRF))
 * Christoph Deil - 10 min - open-gamma-ray-astro [mailing list](https://lists.nasa.gov/mailman/listinfo/open-gamma-ray-astro), [Github org](https://github.com/open-gamma-ray-astro) and [gamma-astro-data-format](http://gamma-astro-data-formats.readthedocs.org/en/latest/) specs.
 * Gernot Maier - Status report DL3 in VERITAS
@@ -126,23 +126,21 @@ Ideas:
   * Identify topics for working groups
   * How much time to allocate for each?
   * Everyone puts their name to what they are most interested in.
-  * Schedule parallel sessions.
-  * Identify 
+  * Schedule sessions (probably parallel) for Thursday and Friday
 
 ## Thursday
 
 Start: 9 am
 
-The 
-
 * Split out into small working groups on sub-topics?
-* Summary from the sub-groups and discussion.
+* End of day: Summary from the sub-groups and discussion.
 
 ## Friday morning
 
-Start 9 am
+Start: 9 am
 
-* Identify action items: who does what after the meeting?
+* Further work in sub-groups.
+* Before lunch: summary, identify action items: who does what after the meeting?
 
 ## Participants
 

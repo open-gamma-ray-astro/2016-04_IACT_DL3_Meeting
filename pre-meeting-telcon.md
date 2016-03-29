@@ -1,8 +1,8 @@
 # Pre-meeting telcon
 
 * Tuesday, March 29, 2016 at 6 pm CEST
-* Duration: probably 30 min, 1 hour max.
-* See connection details, goals and agenda listed below.
+* Duration: 20 min
+* Participants: Catherine, Christoph, Antonio, Jose-Luis, ...
 
 ## Connection details
 
@@ -52,4 +52,11 @@ formats. We'll do this at the f2f meeting.
 
 ## Minutes
 
-* tbd
+* Changed meeting start time on Wednesday to 11 am, so that some people
+  arriving by plane on Wednesday can join.
+  You can come to the meeting place earlier and have informal discussions
+  of course, but the presentations will start at ~ 11 am.
+* Everyone -- if you might come to the meeting, email Catherine and Christoph
+  to add your name to the [participant list](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/README.md#participants)
+  now. Catherine has to give the list of names to the observatory before the
+  meeting ... if you're not on the list, you won't get in!
