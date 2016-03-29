@@ -43,6 +43,9 @@ formats. We'll do this at the f2f meeting.
   to make sure everyone's aware of the logistics, agenda, scope and goals for the f2f meeting.
 * Everyone: if you can, please share slides / documents / code / example files
   openly before the meeting, so that everyone has time to review and think about it.
+* Every speaker: please email [Christoph Deil](https://github.com/cdeil) with the
+  approximate time for your presentation (excluding discussion) and, if needed,
+  an updated talk title.
 * Any additional speakers or participants that aren't listed yet?
 * What are the pre-meeting action items? What needs to be prepared?
 * Any questions or feedback?
