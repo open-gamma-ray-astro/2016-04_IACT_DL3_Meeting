@@ -146,6 +146,7 @@ Start: 9 am
 
 (alphabetical order by first name)
 
+* Antonio Stammera
 * [Catherine Boisson](https://github.com/cboisson)
 * [Christoph Deil](https://github.com/cdeil)
 * [Daniela Dorner](https://github.com/dadorner)
