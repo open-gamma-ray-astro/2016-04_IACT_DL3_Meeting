@@ -105,6 +105,8 @@ We'll start the meeting with a series of short presentations, to make sure
 everyone's aware of the status of existing efforts.
 
 * Catherine Boisson - Welcome, logistics
+* Flash introductions. Everyone please say within ~ 1 minute who you are,
+  what you're working on and what you'd like to work on and achieve at this meeting.
 * Catherine or Jose-Luis or ??? - Overview DL3 in CTA, observer access, archive?
 * Tarek Hassan - Proposed DL3 IRF format and prototype code ([flexIRF](https://github.com/cta-observatory/flexIRF))
 * Christoph Deil - 15 min - open-gamma-ray-astro [mailing list](https://lists.nasa.gov/mailman/listinfo/open-gamma-ray-astro), [Github org](https://github.com/open-gamma-ray-astro) and [gamma-astro-data-format](http://gamma-astro-data-formats.readthedocs.org/en/latest/) specs.

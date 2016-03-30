@@ -2,7 +2,7 @@
 
 * Tuesday, March 29, 2016 at 6 pm CEST
 * Duration: 20 min
-* Participants: Catherine, Christoph, Antonio, Jose-Luis, ...
+* Participants: Catherine, Christoph, Antonio, Jose-Luis, Pere.
 
 ## Connection details
 
