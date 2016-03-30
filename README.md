@@ -96,21 +96,23 @@ the process. The goal is not to "produce and decide on final formats".
 
 ### Wednesday
 
-Start: 11 am
+Start: **11 am**
+
+(You can come any time after 9 am to work at the meeting place or have informal
+discussions, but the official program will start at 11 am.)
 
 We'll start the meeting with a series of short presentations, to make sure
 everyone's aware of the status of existing efforts.
 
-
 * Catherine Boisson - Welcome, logistics
 * Catherine or Jose-Luis or ??? - Overview DL3 in CTA, observer access, archive?
 * Tarek Hassan - Proposed DL3 IRF format and prototype code ([flexIRF](https://github.com/cta-observatory/flexIRF))
-* Christoph Deil - 10 min - open-gamma-ray-astro [mailing list](https://lists.nasa.gov/mailman/listinfo/open-gamma-ray-astro), [Github org](https://github.com/open-gamma-ray-astro) and [gamma-astro-data-format](http://gamma-astro-data-formats.readthedocs.org/en/latest/) specs.
+* Christoph Deil - 15 min - open-gamma-ray-astro [mailing list](https://lists.nasa.gov/mailman/listinfo/open-gamma-ray-astro), [Github org](https://github.com/open-gamma-ray-astro) and [gamma-astro-data-format](http://gamma-astro-data-formats.readthedocs.org/en/latest/) specs.
 * Gernot Maier - Status report DL3 in VERITAS
-* tbd (please volunteer!) -- Status report DL3 in HESS
+* Christoph Deil - 15 min - Status report DL3 in HESS
 * tbd (please volunteer!) -- Status report DL3 in MAGIC
 * tbd (please volunteer!) -- Status report DL3 in FACT
-* Imma Donnarumma - DL3 IRF concept and implementation status in the framework of the MINI-ARRAY pipeline
+* Saverio Lombardi - DL3 IRF concept and implementation status in the framework of the MINI-ARRAY pipeline
 * Jürgen Knödlseder - DL3 in [Gammalib](http://cta.irap.omp.eu/gammalib/) and  [ctools](http://cta.irap.omp.eu/ctools/)
 * Christoph Deil - 10 min - DL3 in [Gammapy](https://gammapy.readthedocs.org/en/latest/)
 
@@ -130,14 +132,14 @@ Ideas:
 
 ## Thursday
 
-Start: 9 am
+Start: **9 am**
 
 * Split out into small working groups on sub-topics?
 * End of day: Summary from the sub-groups and discussion.
 
 ## Friday morning
 
-Start: 9 am
+Start: **9 am**
 
 * Further work in sub-groups.
 * Before lunch: summary, identify action items: who does what after the meeting?
@@ -151,12 +153,12 @@ Start: 9 am
 * [Christoph Deil](https://github.com/cdeil)
 * [Daniela Dorner](https://github.com/dadorner)
 * [Gernot Maier](https://github.com/GernotMaier)
-* Immacolata Donnarumma
 * Jaime Rosado
 * José Luis Contreras
 * [Julien Lefaucheur](https://github.com/jjlk)
 * [Jürgen Knödlseder](https://github.com/jknodlseder)
 * [Kai Brügge](https://github.com/mackaiver)
+* Saverio Lombardi
 * [Tarek Hassan](https://github.com/TarekHC)
 * (if your name isn't here yet, but you'd like to attend, please let us know!)
 

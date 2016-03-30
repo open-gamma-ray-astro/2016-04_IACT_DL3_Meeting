@@ -52,11 +52,29 @@ formats. We'll do this at the f2f meeting.
 
 ## Minutes
 
-* Changed meeting start time on Wednesday to 11 am, so that some people
+
+
+### f2f meeting logistics
+
+* Changed meeting start time on Wednesday to **11 am**, so that some people
   arriving by plane on Wednesday can join.
   You can come to the meeting place earlier and have informal discussions
   of course, but the presentations will start at ~ 11 am.
-* Everyone -- if you might come to the meeting, email Catherine and Christoph
+* Everyone - if you might come to the meeting, email Catherine and Christoph
   to add your name to the [participant list](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/README.md#participants)
   now. Catherine has to give the list of names to the observatory before the
   meeting ... if you're not on the list, you won't get in!
+
+### f2f meeting agenda
+
+* Someone should give an overview / status report on CTA
+  data model, observer access and archive.
+  Catherine or Jose-Luis will do it or try to find someone
+  (or split this in several presentations).
+* Imma can't come and present on ASTRI. Saverio will give the presentation.
+* We don't have a speaker for MAGIC status yet.
+  Christoph will email Giovanna. Volunteers welcome.
+* The speaker for FACT isn't confirmed.
+  Christoph will email Daniela.
+* It would be good to have more people giving "Thoughts on DL3" presentations.
+  Please volunteer!
