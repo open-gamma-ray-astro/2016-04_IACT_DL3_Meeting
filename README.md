@@ -151,6 +151,7 @@ Start: **9 am**
 (alphabetical order by first name)
 
 * Antonio Stammera
+* [Bruno Khelifi](https://github.com/bkhelifi)
 * [Catherine Boisson](https://github.com/cboisson)
 * [Christoph Deil](https://github.com/cdeil)
 * [Daniela Dorner](https://github.com/dadorner)
@@ -160,6 +161,7 @@ Start: **9 am**
 * [Julien Lefaucheur](https://github.com/jjlk)
 * [Jürgen Knödlseder](https://github.com/jknodlseder)
 * [Kai Brügge](https://github.com/mackaiver)
+* [Régis Terrier](https://github.com/registerrier)
 * Saverio Lombardi
 * [Tarek Hassan](https://github.com/TarekHC)
 * (if your name isn't here yet, but you'd like to attend, please let us know!)
