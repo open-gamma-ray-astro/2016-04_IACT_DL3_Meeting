@@ -112,8 +112,8 @@ everyone's aware of the status of existing efforts.
 * Christoph Deil - 15 min - open-gamma-ray-astro [mailing list](https://lists.nasa.gov/mailman/listinfo/open-gamma-ray-astro), [Github org](https://github.com/open-gamma-ray-astro) and [gamma-astro-data-format](http://gamma-astro-data-formats.readthedocs.org/en/latest/) specs.
 * Christoph Deil - 15 min - DL3 in HESS
 * Gernot Maier - DL3 in VERITAS
-* tbd (please volunteer!) -- DL3 in MAGIC
-* Daniela Dorner and Kai Brügge -- DL3 in FACT
+* tbd (please volunteer!) - DL3 in MAGIC
+* Daniela Dorner and Kai Brügge - 20 min - DL3 in FACT
 * Saverio Lombardi - DL3 IRF concept and implementation status in the framework of the ASTRI MINI-ARRAY pipeline
 * Jürgen Knödlseder - DL3 in [Gammalib](http://cta.irap.omp.eu/gammalib/) and  [ctools](http://cta.irap.omp.eu/ctools/)
 * Christoph Deil - 10 min - DL3 in [Gammapy](https://gammapy.readthedocs.org/en/latest/)
