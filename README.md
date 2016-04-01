@@ -101,36 +101,48 @@ Start: **11 am**
 (You can come any time after 9 am to work at the meeting place or have informal
 discussions, but the official program will start at 11 am.)
 
-We'll start the meeting with a series of short presentations, to make sure
-everyone's aware of the status of existing efforts.
+We'll start the meeting with a series of presentations to kick off the meeting.
 
 * Catherine Boisson - Welcome, logistics
 * Flash introductions. Everyone please say within ~ 1 minute who you are,
   what you're working on and what you'd like to work on and achieve at this meeting.
+
+Overview presentations:
+
+* Jürgen Knödlseder - DL3 for high-energy telescopes - experience from space missions (e.g. Fermi, INTEGRAL)
 * Catherine or Jose-Luis or ??? - Overview DL3 in CTA, observer access, archive?
 * Tarek Hassan - Proposed DL3 IRF format and prototype code ([flexIRF](https://github.com/cta-observatory/flexIRF))
 * Christoph Deil - 15 min - open-gamma-ray-astro [mailing list](https://lists.nasa.gov/mailman/listinfo/open-gamma-ray-astro), [Github org](https://github.com/open-gamma-ray-astro) and [gamma-astro-data-format](http://gamma-astro-data-formats.readthedocs.org/en/latest/) specs.
+
+Experience and status reports from existing IACTs:
+
 * Christoph Deil - 15 min - DL3 in HESS
 * Gernot Maier - DL3 in VERITAS
 * tbd (please volunteer!) - DL3 in MAGIC
 * Daniela Dorner and Kai Brügge - 20 min - DL3 in FACT
 * Saverio Lombardi - DL3 IRF concept and implementation status in the framework of the ASTRI MINI-ARRAY pipeline
+
+Experience and status from existing open-source codes:
+
 * Jürgen Knödlseder - DL3 in [Gammalib](http://cta.irap.omp.eu/gammalib/) and  [ctools](http://cta.irap.omp.eu/ctools/)
 * Christoph Deil - 10 min - DL3 in [Gammapy](https://gammapy.readthedocs.org/en/latest/)
 
-* Jaime Rosado and José Luis Contreras - Thoughts on DL3
+Then some general thoughts on DL3 for IACTs:
 
-Ideas:
+* Jaime Rosado and José Luis Contreras - Thoughts on DL3 for IACTs
+* Jürgen Knödlseder - Thoughts on DL3 for IACTs
 
-* Wanted: short presentations of use cases or "I think we should do this for DL3 ..."
-* (if you'd like to give a presentation, please let uns know!)
+This concludes the presentations, the rest of the f2f meeting is very informal.
 
-* Open plenary discussion session
-* Plan work for Thursday together on the board:
+* Open plenary discussion (1 hour?) to discuss the goals for this meeting
+  and the coming months / years.
+* Together plan the rest of the meeting:
   * Identify topics for working groups
   * How much time to allocate for each?
   * Everyone puts their name to what they are most interested in.
   * Schedule sessions (probably parallel) for Thursday and Friday
+
+Dinner together at ???.
 
 ## Thursday
 
