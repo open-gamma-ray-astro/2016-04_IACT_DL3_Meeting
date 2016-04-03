@@ -174,6 +174,7 @@ Start: **9 am**
 * [Jürgen Knödlseder](https://github.com/jknodlseder)
 * [Kai Brügge](https://github.com/mackaiver)
 * [Régis Terrier](https://github.com/registerrier)
+* Roland Walter
 * Saverio Lombardi
 * [Tarek Hassan](https://github.com/TarekHC)
 * (if your name isn't here yet, but you'd like to attend, please let us know!)
