@@ -118,7 +118,7 @@ Experience and status reports from existing IACTs:
 
 * Christoph Deil - 15 min - DL3 in HESS
 * Gernot Maier - DL3 in VERITAS
-* tbd (please volunteer!) - DL3 in MAGIC
+* Giovanna Pedaletti - DL3 in MAGIC
 * Daniela Dorner and Kai Brügge - 20 min - DL3 in FACT
 * Saverio Lombardi - DL3 IRF concept and implementation status in the framework of the ASTRI MINI-ARRAY pipeline
 
@@ -168,6 +168,7 @@ Start: **9 am**
 * [Christoph Deil](https://github.com/cdeil)
 * [Daniela Dorner](https://github.com/dadorner)
 * [Gernot Maier](https://github.com/GernotMaier)
+* Giovanna Pedaletti
 * Jaime Rosado
 * José Luis Contreras
 * [Julien Lefaucheur](https://github.com/jjlk)
