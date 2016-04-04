@@ -169,7 +169,7 @@ Start: **9 am**
 * [Daniela Dorner](https://github.com/dadorner)
 * [Gernot Maier](https://github.com/GernotMaier)
 * Giovanna Pedaletti
-* Jaime Rosado
+* [Jaime Rosado](https://github.com/JaimeRosado)
 * José Luis Contreras
 * [Julien Lefaucheur](https://github.com/jjlk)
 * [Jürgen Knödlseder](https://github.com/jknodlseder)
