@@ -129,7 +129,7 @@ Experience and status from existing open-source codes:
 
 Then some general thoughts on DL3 for IACTs:
 
-* Jaime Rosado and José Luis Contreras - Thoughts on DL3 for IACTs
+* Jaime Rosado and José Luis Contreras - [Thoughts on DL3 for IACTs](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/presentations/Rosado_IACT_DL3_Meudon_April_2016.pdf)
 * Jürgen Knödlseder - Thoughts on DL3 for IACTs
 
 This concludes the presentations, the rest of the f2f meeting is very informal.
