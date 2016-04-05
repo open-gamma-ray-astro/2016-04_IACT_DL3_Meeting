@@ -162,24 +162,23 @@ Start: **9 am**
 
 (alphabetical order by first name)
 
-* Antonio Stammera
-* [Bruno Khelifi](https://github.com/bkhelifi)
-* [Catherine Boisson](https://github.com/cboisson)
-* [Christoph Deil](https://github.com/cdeil)
-* [Daniela Dorner](https://github.com/dadorner)
-* [Gernot Maier](https://github.com/GernotMaier)
-* Giovanna Pedaletti
-* [Jaime Rosado](https://github.com/JaimeRosado)
-* José Luis Contreras
-* [Julien Lefaucheur](https://github.com/jjlk)
-* [Jürgen Knödlseder](https://github.com/jknodlseder)
-* [Kai Brügge](https://github.com/mackaiver)
-* [Mathieu Servillat](https://github.com/mservillat)
-* [Régis Terrier](https://github.com/registerrier)
-* Roland Walter
-* Saverio Lombardi
-* [Tarek Hassan](https://github.com/TarekHC)
-* (if your name isn't here yet, but you'd like to attend, please let us know!)
+1. Antonio Stammera
+1. [Bruno Khelifi](https://github.com/bkhelifi)
+1. [Catherine Boisson](https://github.com/cboisson)
+1. [Christoph Deil](https://github.com/cdeil)
+1. [Daniela Dorner](https://github.com/dadorner)
+1. [Gernot Maier](https://github.com/GernotMaier)
+1. Giovanna Pedaletti
+1. [Jaime Rosado](https://github.com/JaimeRosado)
+1. José Luis Contreras
+1. [Julien Lefaucheur](https://github.com/jjlk)
+1. [Jürgen Knödlseder](https://github.com/jknodlseder)
+1. [Kai Brügge](https://github.com/mackaiver)
+1. [Mathieu Servillat](https://github.com/mservillat)
+1. [Régis Terrier](https://github.com/registerrier)
+1. Roland Walter
+1. Saverio Lombardi
+1. [Tarek Hassan](https://github.com/TarekHC)
 
 ## How to contribute to this repository?
 
