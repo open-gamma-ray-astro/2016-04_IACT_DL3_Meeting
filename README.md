@@ -174,6 +174,7 @@ Start: **9 am**
 * [Julien Lefaucheur](https://github.com/jjlk)
 * [Jürgen Knödlseder](https://github.com/jknodlseder)
 * [Kai Brügge](https://github.com/mackaiver)
+* [Mathieu Servillat](https://github.com/mservillat)
 * [Régis Terrier](https://github.com/registerrier)
 * Roland Walter
 * Saverio Lombardi
