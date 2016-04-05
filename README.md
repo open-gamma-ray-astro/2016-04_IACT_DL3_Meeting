@@ -14,11 +14,11 @@ contact [Catherine Boisson](http://www.iau.org/administration/membership/individ
 * Pre-meeting planning telcon:
     * Purpose: plan the f2f meeting
     * March 29, 2016 at 6 pm CEST
-    * Agenda and notes at [pre-meeting-telcon.md](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/pre-meeting-telcon.md).
+    * Agenda and notes at [pre-meeting-telcon.md](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/notes/pre-meeting-telcon.md).
 * Post-meeting follow-up telcon:
     * Purpose: short reports on action items and activities after the meeting; keep people in contact.
     * Date / time: tbd (will be scheduled at the f2f meeting)
-    * Agenda and notes at [post-meeting-telcon.md](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/post-meeting-telcon.md).
+    * Agenda and notes at [post-meeting-telcon.md](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/notes/post-meeting-telcon.md).
 
 ## Where?
 
@@ -137,27 +137,57 @@ This concludes the presentations, the rest of the f2f meeting is very informal.
 
 * Open plenary discussion (1 hour?) to discuss the goals for this meeting
   and the coming months / years.
-* Together plan the rest of the meeting:
+* Plan parallel work in sub-groups for Thursday
   * Identify topics for working groups
   * How much time to allocate for each?
   * Everyone puts their name to what they are most interested in.
-  * Schedule sessions (probably parallel) for Thursday and Friday
+  * We put a schedule that tries to mininize conflicts of interest.
 
-Dinner together at ???.
+Dinner together at ??? at restaurant ???
 
 ## Thursday
 
 Start: **9 am**
 
-* Split out into small working groups on sub-topics?
-* End of day: Summary from the sub-groups and discussion.
+**9 am - 12:30 pm** - Parallel work in sub-groups.
 
-## Friday morning
+Sub-groups:
+
+* TODO: list topics, rooms, times. (Link to notes.)
+
+**12:30 - 2 pm** - Lunch break
+
+**2 pm - 5 pm** - Parallel work in sub-groups
+
+Sub-groups:
+
+* TODO: list topics, rooms, times. (Link to notes.)
+
+**5 pm - 6 pm** - Plenary session
+
+* Summary reports from sub-groups
+* Discussion
+* Schedule sub-groups for Friday.
+
+Dinner together at ??? at restaurant ???
+
+## Friday
 
 Start: **9 am**
 
-* Further work in sub-groups.
-* Before lunch: summary, identify action items: who does what after the meeting?
+**9 am - 11 am**: Parallel work in sub-groups.
+
+Sub-groups:
+
+* TODO: list topics, rooms, times. (Link to notes.)
+
+**11 am - 12:30 pm**: plenary summmary session
+
+* Brief summary reports from sub-groups.
+* Identify action items: who does what after the meeting until when?
+* Schedule the date / time for the [post-meeting-telcon.md](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/notes/post-meeting-telcon.md).
+
+**12:30** - Lunch
 
 ## Participants
 

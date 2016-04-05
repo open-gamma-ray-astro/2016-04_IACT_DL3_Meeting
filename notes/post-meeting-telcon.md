@@ -1,4 +1,4 @@
-# Pre-meeting telcon
+# Post-meeting telcon
 
 * When? tbd at the f2f meeting.
 
