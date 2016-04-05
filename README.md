@@ -128,9 +128,9 @@ Experience and status from existing open-source codes:
 * Jürgen Knödlseder - DL3 in [Gammalib](http://cta.irap.omp.eu/gammalib/) and  [ctools](http://cta.irap.omp.eu/ctools/)
 * Christoph Deil - 10 min - DL3 in [Gammapy](https://gammapy.readthedocs.org/en/latest/)
 
-Then some general thoughts on DL3 for IACTs:
+Then some general thoughts on DL3:
 
-* Jaime Rosado and José Luis Contreras - [Thoughts on DL3 for IACTs](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/presentations/Rosado_IACT_DL3_Meudon_April_2016.pdf)
+* Jaime Rosado and José Luis Contreras - [DL3 data model beyond the IACT community?](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/presentations/Rosado_IACT_DL3_Meudon_April_2016.pdf)
 * Jürgen Knödlseder - Thoughts on DL3 for IACTs
 
 This concludes the presentations, the rest of the f2f meeting is very informal.
