@@ -113,20 +113,20 @@ Overview presentations:
 * Catherine Boisson - Introduction to archive and observer access
 * Mathieu Servillat - VO data diffusion for IACTs
 * Tarek Hassan - Proposed DL3 IRF format and prototype code ([flexIRF](https://github.com/cta-observatory/flexIRF))
-* Christoph Deil - 15 min - open-gamma-ray-astro [mailing list](https://lists.nasa.gov/mailman/listinfo/open-gamma-ray-astro), [Github org](https://github.com/open-gamma-ray-astro) and [gamma-astro-data-format](http://gamma-astro-data-formats.readthedocs.org/en/latest/) specs.
+* Christoph Deil - [Open data model and format specifications for gamma-ray astronomy](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/presentations/2016-04_IACT_DL3_Meeting_GammaAstroDataFormats.pdf) (links: [open-gamma-ray-astro mailing list](https://lists.nasa.gov/mailman/listinfo/open-gamma-ray-astro), [open-gamma-ray-astro Github org](https://github.com/open-gamma-ray-astro) and [gamma-astro-data-format spec](http://gamma-astro-data-formats.readthedocs.org/en/latest/))
 
 Experience and status reports from existing IACTs:
 
-* Christoph Deil - 15 min - DL3 in HESS
 * Gernot Maier - DL3 in VERITAS
 * Giovanna Pedaletti - DL3 in MAGIC
-* Daniela Dorner and Kai Brügge - 20 min - DL3 in FACT
+* Daniela Dorner and Kai Brügge - DL3 in FACT
 * Saverio Lombardi - DL3 IRF concept and implementation status in the framework of the ASTRI MINI-ARRAY pipeline
+* Christoph Deil - DL3 in HESS
 
 Experience and status from existing open-source codes:
 
 * Jürgen Knödlseder - DL3 in [Gammalib](http://cta.irap.omp.eu/gammalib/) and  [ctools](http://cta.irap.omp.eu/ctools/)
-* Christoph Deil - 10 min - DL3 in [Gammapy](https://gammapy.readthedocs.org/en/latest/)
+* Christoph Deil - DL3 in [Gammapy](https://gammapy.readthedocs.org/en/latest/)
 
 Then some general thoughts on DL3:
 
