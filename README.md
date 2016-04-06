@@ -113,7 +113,7 @@ Overview presentations:
 * Catherine Boisson - IACT data to end users
 * Mathieu Servillat - VO data diffusion for IACTs
 * Christoph Deil - [Open data model and format specifications for gamma-ray astronomy](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/presentations/2016-04_IACT_DL3_Meeting_GammaAstroDataFormats.pdf) (links: [open-gamma-ray-astro mailing list](https://lists.nasa.gov/mailman/listinfo/open-gamma-ray-astro), [open-gamma-ray-astro Github org](https://github.com/open-gamma-ray-astro) and [gamma-astro-data-format spec](http://gamma-astro-data-formats.readthedocs.org/en/latest/))
-* Tarek Hassan - [Proposed DL3 IRF format and prototype code](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/presentations/IRF_format_progress_Tarek_Hassan@Meudon.pdf) ([flexIRF](https://github.com/cta-observatory/flexIRF))
+* Tarek Hassan - [Proposed DL3 IRF format and prototype code](https://github.com/TarekHC/2016-04_IACT_DL3_Meeting/blob/master/presentations/IRF_format_progress_Tarek_Hassan@Meudon.pdf) ([flexIRF](https://github.com/cta-observatory/flexIRF))
 
 Experience and status reports from existing IACTs:
 
