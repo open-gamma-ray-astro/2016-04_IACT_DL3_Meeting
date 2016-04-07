@@ -108,7 +108,7 @@ Overview presentations:
 * Catherine Boisson - [IACT data to end users](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/presentations/2016-04_IACT_DL3_Meeting_Boisson.pdf)
 * Mathieu Servillat - [VO data diffusion for IACTs](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/presentations/servillat_VOdiff.pdf)
 * Christoph Deil - [Open data model and format specifications for gamma-ray astronomy](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/presentations/2016-04_IACT_DL3_Meeting_GammaAstroDataFormats.pdf)
-* Tarek Hassan - [Proposed DL3 IRF format and prototype code](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/presentations/IRF_format_progress_Tarek_Hassan@Meudon.pdf) ([flexIRF](https://github.com/cta-observatory/flexIRF))
+* Tarek Hassan - [Proposed DL3 IRF format and prototype code](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/presentations/IRF_format_progress_Tarek_Hassan@Meudon.pdf)
 * Gernot Maier - [CTA Monte Carlo Pipeline - A very short overview](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/presentations/CTA-20160406-DL3MeetingMCPipeline.pdf)
 
 Experience and status reports from existing IACTs:
