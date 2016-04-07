@@ -127,7 +127,7 @@ Start: **9 am**
 Experience and status from existing open-source codes consuming DL3 data:
 
 * Jürgen Knödlseder - [DL3 in Gammalib and ctools](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/presentations/2016-04_IACT_DL3_Meeting_Knodlseder_Gammalib.pdf)
-* Christoph Deil - DL3 in [Gammapy](https://gammapy.readthedocs.org/en/latest/)
+* Christoph Deil - [DL3 in Gammapy](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/presentations/2016-04_IACT_DL3_Meeting_Deil_Gammapy.pdf)
 
 General thoughts on DL3:
 
