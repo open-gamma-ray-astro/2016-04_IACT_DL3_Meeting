@@ -104,18 +104,19 @@ Start: **11 am**
 
 Overview presentations:
 
-* Jürgen Knödlseder - DL3 for high-energy telescopes - experience from space missions (e.g. Fermi, INTEGRAL)
+* Jürgen Knödlseder - [DL3 for high-energy telescopes - experience from space missions](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/presentations/2016-04-06-DL3-experience-jknodlseder.pptx.pdf)
 * Catherine Boisson - IACT data to end users
-* Mathieu Servillat - VO data diffusion for IACTs
+* Mathieu Servillat - [VO data diffusion for IACTs](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/presentations/servillat_VOdiff.pdf)
 * Christoph Deil - [Open data model and format specifications for gamma-ray astronomy](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/presentations/2016-04_IACT_DL3_Meeting_GammaAstroDataFormats.pdf) (links: [open-gamma-ray-astro mailing list](https://lists.nasa.gov/mailman/listinfo/open-gamma-ray-astro), [open-gamma-ray-astro Github org](https://github.com/open-gamma-ray-astro) and [gamma-astro-data-format spec](http://gamma-astro-data-formats.readthedocs.org/en/latest/))
 * Tarek Hassan - [Proposed DL3 IRF format and prototype code](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/presentations/IRF_format_progress_Tarek_Hassan@Meudon.pdf) ([flexIRF](https://github.com/cta-observatory/flexIRF))
 * Gernot Maier - MC
 
 Experience and status reports from existing IACTs:
 
-* Gernot Maier - DL3 in VERITAS
+* Gernot Maier - [DL3 in VERITAS](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/presentations/VTS-20160406-DL3.pdf)
 * Giovanna Pedaletti - DL3 in MAGIC
-* Daniela Dorner and Kai Brügge - DL3 in FACT
+* Daniela Dorner - DL3 in FACT
+* Kai Brügge - [FACT data and formats](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/presentations/fact-dataformats-and-discussion.pdf)
 * Saverio Lombardi - DL3 IRF concept and implementation status in the framework of the ASTRI MINI-ARRAY pipeline
 * Christoph Deil - DL3 in HESS
 
