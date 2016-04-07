@@ -144,8 +144,13 @@ be posted after some cleanup.
 Start: **9 am**
 
 * Continue discussions from yesterday.
+* What's process, goal and timescale for version 1.0 of the spec?
 * Identify action items: who does what after the meeting until when?
+* Is Github communication and one follow-up telcon enough, or do we want
+  dedicated follow-up telcons on sub-topics to increase chances of quick
+  progress and convergence on the things discussed here?
 * Schedule the date / time for the [post-meeting-telcon.md](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/notes/post-meeting-telcon.md).
+* Present summary of this meeting in some CTA telcon soon?
 
 ## Participants
 
