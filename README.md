@@ -104,21 +104,21 @@ Start: **11 am**
 
 Overview presentations:
 
-* Jürgen Knödlseder - [DL3 for high-energy telescopes - experience from space missions](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/presentations/2016-04-06-DL3-experience-jknodlseder.pptx.pdf)
-* Catherine Boisson - [IACT data to end users](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/presentations/2016-04_IACT_DL3_Meeting_Boisson.pdf)
-* Mathieu Servillat - [VO data diffusion for IACTs](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/presentations/servillat_VOdiff.pdf)
-* Christoph Deil - [Open data model and format specifications for gamma-ray astronomy](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/presentations/2016-04_IACT_DL3_Meeting_GammaAstroDataFormats.pdf)
-* Tarek Hassan - [Proposed DL3 IRF format and prototype code](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/presentations/IRF_format_progress_Tarek_Hassan@Meudon.pdf)
-* Gernot Maier - [CTA Monte Carlo Pipeline - A very short overview](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/presentations/CTA-20160406-DL3MeetingMCPipeline.pdf)
+* Jürgen Knödlseder - [DL3 for high-energy telescopes - experience from space missions](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/presentations/2016-04_IACT_DL3_Meeting_Knodlseder_Experience.pdf)
+* Catherine Boisson - [IACT data to end users](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/presentations/2016-04_IACT_DL3_Meeting_Boisson_Intro.pdf)
+* Mathieu Servillat - [VO data diffusion for IACTs](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/presentations/2016-04_IACT_DL3_Meeting_Servillat_VO.pdf)
+* Christoph Deil - [Open data model and format specifications for gamma-ray astronomy](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/presentations/2016-04_IACT_DL3_Meeting_Deil_Spec.pdf)
+* Tarek Hassan - [Proposed DL3 IRF format and prototype code](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/presentations/2016-04_IACT_DL3_Meeting_Hassan_IRF.pdf)
+* Gernot Maier - [CTA Monte Carlo Pipeline - A very short overview](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/presentations/2016-04_IACT_DL3_Meeting_Maier_CTA_MC.pdf)
 
 Experience and status reports from existing IACTs:
 
-* Gernot Maier - [DL3 in VERITAS](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/presentations/VTS-20160406-DL3.pdf)
+* Gernot Maier - [DL3 in VERITAS](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/presentations/2016-04_IACT_DL3_Meeting_Maier_VERITAS.pdf)
 * Giovanna Pedaletti - DL3 in MAGIC
 * Daniela Dorner - DL3 in FACT
-* Kai Brügge - [FACT data and formats](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/presentations/fact-dataformats-and-discussion.pdf)
-* Saverio Lombardi - [DL3 IRF concept and implementation status in the framework of the ASTRI MINI-ARRAY pipeline](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/presentations/IRF_Paris_6April2016_ASTRI_v3.pdf)
-* Christoph Deil - [DL3 in HESS](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/presentations/2016-04_IACT_DL3_Meeting_HESS.pdf)
+* Kai Brügge - [FACT data and formats](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/presentations/2016-04_IACT_DL3_Meeting_Bruegge_FACT.pdf)
+* Saverio Lombardi - [DL3 IRF concept and implementation status in the framework of the ASTRI MINI-ARRAY pipeline](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/presentations/2016-04_IACT_DL3_Meeting_Lombardi_ASTRI.pdf)
+* Christoph Deil - [DL3 in HESS](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/presentations/2016-04_IACT_DL3_Meeting_Deil_HESS.pdf)
 
 ## Thursday
 
@@ -126,13 +126,13 @@ Start: **9 am**
 
 Experience and status from existing open-source codes consuming DL3 data:
 
-* Jürgen Knödlseder - DL3 in [Gammalib](http://cta.irap.omp.eu/gammalib/) and  [ctools](http://cta.irap.omp.eu/ctools/)
+* Jürgen Knödlseder - [DL3 in Gammalib and ctools](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/presentations/2016-04_IACT_DL3_Meeting_Knodlseder_Gammalib.pdf)
 * Christoph Deil - DL3 in [Gammapy](https://gammapy.readthedocs.org/en/latest/)
 
 General thoughts on DL3:
 
-* Jaime Rosado and José Luis Contreras - [DL3 data model beyond the IACT community?](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/presentations/Rosado_IACT_DL3_Meudon_April_2016.pdf)
-* Jürgen Knödlseder - Thoughts on DL3 for IACTs
+* Jaime Rosado and José Luis Contreras - [DL3 data model beyond the IACT community?](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/presentations/2016-04_IACT_DL3_Meeting_Rosado_Beyond.pdf)
+* Jürgen Knödlseder - [Thoughts on DL3 for IACTs](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/presentations/2016-04_IACT_DL3_Meeting_Knodlseder_Thoughts.pdf)
 
 This concludes the presentations, the rest of the f2f meeting is very informal.
 
