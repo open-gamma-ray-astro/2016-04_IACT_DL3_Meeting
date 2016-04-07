@@ -149,7 +149,9 @@ This concludes the presentations, the rest of the f2f meeting is very informal.
 
 Sub-groups:
 
-* tbd
+* Christoph - FOV coordinates (discussion, followed by spec writing)
+* Christoph - Define method of EVENT-IRF association via GTI_ID and EVENT_TYPE
+* Tarek? - IRFs
 
 ## Friday
 
@@ -159,7 +161,11 @@ Start: **9 am**
 
 Sub-groups:
 
-* tbd
+* Christoph - Open spec organisation (discussion)
+  * include DL2?
+  * how to organise sub-sections?
+  * how to do versioning?
+* ...
 
 **11 am - 12:30 pm**: plenary summmary session
 
