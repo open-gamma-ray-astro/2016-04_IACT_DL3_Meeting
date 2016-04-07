@@ -134,47 +134,18 @@ General thoughts on DL3:
 * Jaime Rosado and José Luis Contreras - [DL3 data model beyond the IACT community?](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/presentations/2016-04_IACT_DL3_Meeting_Rosado_Beyond.pdf)
 * Jürgen Knödlseder - [Thoughts on DL3 for IACTs](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/presentations/2016-04_IACT_DL3_Meeting_Knodlseder_Thoughts.pdf)
 
-This concludes the presentations, the rest of the f2f meeting is very informal.
+The rest of Thursday was use for discussions and planning.
 
-* Open plenary discussion (1 hour?) to discuss the goals for this meeting
-  and the coming months / years.
-* Plan parallel work in sub-groups for the afternoon and Friday morning
-  * Identify topics for working groups
-  * How much time to allocate for each?
-  * Everyone puts their name to what they are most interested in.
-  * We put a schedule that tries to mininize conflicts of interest.
-
-**12:30 - 2 pm** - Lunch break
-
-**2 pm - 6 pm** - Parallel work in sub-groups
-
-Sub-groups:
-
-* Christoph - FOV coordinates (discussion, followed by spec writing)
-* Christoph - Define method of EVENT-IRF association via GTI_ID and EVENT_TYPE
-* Tarek? - IRFs
+Minutes were collaboratively taken during the meeting and will
+be posted after some cleanup.
 
 ## Friday
 
 Start: **9 am**
 
-**9 am - 11 am**: Parallel work in sub-groups.
-
-Sub-groups:
-
-* Christoph - Open spec organisation (discussion)
-  * include DL2?
-  * how to organise sub-sections?
-  * how to do versioning?
-* ...
-
-**11 am - 12:30 pm**: plenary summmary session
-
-* Brief summary reports from sub-groups.
+* Continue discussions from yesterday.
 * Identify action items: who does what after the meeting until when?
 * Schedule the date / time for the [post-meeting-telcon.md](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/notes/post-meeting-telcon.md).
-
-**12:30** - Lunch
 
 ## Participants
 
@@ -197,27 +168,3 @@ Sub-groups:
 1. Roland Walter
 1. Saverio Lombardi
 1. [Tarek Hassan](https://github.com/TarekHC)
-
-## How to contribute to this repository?
-
-The main work product from this meeting will be presentation slides presented on Wednesday, as well as notes and documents written collaboratively during the meeting.
-
-We are using this Github repository to gather presentations and notes for this
-meeting: https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting
-
-Please help us gather notes, especially summaries of the parallel sessions, and
-identified action items for the coming months (for us, and for people that
-couldn't come to the meeting).
-
-To contribute, please make a Github account (it only takes a minute and is free)
-and make pull requests, adding files to the following folders:
-
-* [notes](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/notes) - Add notes as Markdown ``.md`` files. Use the [notes/template.md](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/notes/template.md) file as a starting point if you like.
-* If you want to do collaborative note taking, a Google doc with URL shared via
-email or Twitter is a good option (and copy & paste the content over to this repo after).
-* [presentations](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/presentations) - Add your presentation in PDF format if you want to present slides.
-Or just write down what you want to present in a Markdown file if you prefer.
-
-If you have any questions, ask [Christoph Deil](https://github.com/cdeil) or
-other participants that are familiar with Markdown and Github. If you don't want
-to use Github, just email files or notes to me and I'll add them to the repo.
