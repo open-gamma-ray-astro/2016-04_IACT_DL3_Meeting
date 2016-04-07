@@ -118,7 +118,7 @@ Experience and status reports from existing IACTs:
 * Daniela Dorner - DL3 in FACT
 * Kai Brügge - [FACT data and formats](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/presentations/fact-dataformats-and-discussion.pdf)
 * Saverio Lombardi - DL3 IRF concept and implementation status in the framework of the ASTRI MINI-ARRAY pipeline
-* Christoph Deil - DL3 in HESS
+* Christoph Deil - [DL3 in HESS](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/presentations/2016-04_IACT_DL3_Meeting_HESS.pdf)
 
 ## Thursday
 
