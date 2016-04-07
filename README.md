@@ -98,11 +98,6 @@ the process. The goal is not to "produce and decide on final formats".
 
 Start: **11 am**
 
-(You can come any time after 9 am to work at the meeting place or have informal
-discussions, but the official program will start at 11 am.)
-
-We'll start the meeting with a series of presentations to kick off the meeting.
-
 * Catherine Boisson - Welcome, logistics
 * Flash introductions. Everyone please say within ~ 1 minute who you are,
   what you're working on and what you'd like to work on and achieve at this meeting.
@@ -114,6 +109,7 @@ Overview presentations:
 * Mathieu Servillat - VO data diffusion for IACTs
 * Christoph Deil - [Open data model and format specifications for gamma-ray astronomy](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/presentations/2016-04_IACT_DL3_Meeting_GammaAstroDataFormats.pdf) (links: [open-gamma-ray-astro mailing list](https://lists.nasa.gov/mailman/listinfo/open-gamma-ray-astro), [open-gamma-ray-astro Github org](https://github.com/open-gamma-ray-astro) and [gamma-astro-data-format spec](http://gamma-astro-data-formats.readthedocs.org/en/latest/))
 * Tarek Hassan - [Proposed DL3 IRF format and prototype code](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/presentations/IRF_format_progress_Tarek_Hassan@Meudon.pdf) ([flexIRF](https://github.com/cta-observatory/flexIRF))
+* Gernot Maier - MC
 
 Experience and status reports from existing IACTs:
 
@@ -123,12 +119,16 @@ Experience and status reports from existing IACTs:
 * Saverio Lombardi - DL3 IRF concept and implementation status in the framework of the ASTRI MINI-ARRAY pipeline
 * Christoph Deil - DL3 in HESS
 
-Experience and status from existing open-source codes:
+## Thursday
+
+Start: **9 am**
+
+Experience and status from existing open-source codes consuming DL3 data:
 
 * Jürgen Knödlseder - DL3 in [Gammalib](http://cta.irap.omp.eu/gammalib/) and  [ctools](http://cta.irap.omp.eu/ctools/)
 * Christoph Deil - DL3 in [Gammapy](https://gammapy.readthedocs.org/en/latest/)
 
-Then some general thoughts on DL3:
+General thoughts on DL3:
 
 * Jaime Rosado and José Luis Contreras - [DL3 data model beyond the IACT community?](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/presentations/Rosado_IACT_DL3_Meudon_April_2016.pdf)
 * Jürgen Knödlseder - Thoughts on DL3 for IACTs
@@ -137,39 +137,19 @@ This concludes the presentations, the rest of the f2f meeting is very informal.
 
 * Open plenary discussion (1 hour?) to discuss the goals for this meeting
   and the coming months / years.
-* Plan parallel work in sub-groups for Thursday
+* Plan parallel work in sub-groups for the afternoon and Friday morning
   * Identify topics for working groups
   * How much time to allocate for each?
   * Everyone puts their name to what they are most interested in.
   * We put a schedule that tries to mininize conflicts of interest.
 
-Dinner together at ??? at restaurant ???
-
-## Thursday
-
-Start: **9 am**
-
-**9 am - 12:30 pm** - Parallel work in sub-groups.
-
-Sub-groups:
-
-* TODO: list topics, rooms, times. (Link to notes.)
-
 **12:30 - 2 pm** - Lunch break
 
-**2 pm - 5 pm** - Parallel work in sub-groups
+**2 pm - 6 pm** - Parallel work in sub-groups
 
 Sub-groups:
 
-* TODO: list topics, rooms, times. (Link to notes.)
-
-**5 pm - 6 pm** - Plenary session
-
-* Summary reports from sub-groups
-* Discussion
-* Schedule sub-groups for Friday.
-
-Dinner together at ??? at restaurant ???
+* tbd
 
 ## Friday
 
@@ -179,7 +159,7 @@ Start: **9 am**
 
 Sub-groups:
 
-* TODO: list topics, rooms, times. (Link to notes.)
+* tbd
 
 **11 am - 12:30 pm**: plenary summmary session
 
