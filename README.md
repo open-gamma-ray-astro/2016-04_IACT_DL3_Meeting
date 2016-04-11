@@ -156,7 +156,6 @@ Start: **9 am**
 
 (alphabetical order by first name)
 
-1. Antonio Stammera
 1. [Bruno Khelifi](https://github.com/bkhelifi)
 1. [Catherine Boisson](https://github.com/cboisson)
 1. [Christoph Deil](https://github.com/cdeil)
