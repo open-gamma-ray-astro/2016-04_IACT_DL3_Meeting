@@ -30,9 +30,10 @@ TODO: summarise what happened and link to minutes.
     * March 29, 2016 at 6 pm CEST
     * Agenda and notes at [pre-meeting-telcon.md](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/notes/pre-meeting-telcon.md).
 * Post-meeting follow-up telcon:
-    * Purpose: short reports on action items and activities after the meeting; keep people in contact.
-    * Date / time: tbd (will be scheduled at the f2f meeting)
+    * Purpose: wrap up and follow-up for the f2f meeting
+    * Tuesday, April 26, 2016 at 11 am CEST
     * Agenda and notes at [post-meeting-telcon.md](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/notes/post-meeting-telcon.md).
+* At the meeting we decided to start monthly telcons to make sure we keep in touch.
 
 ## Where?
 
