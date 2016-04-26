@@ -29,12 +29,20 @@ Conference:
 
 ## Agenda
 
-* Go over summary / minutes / action items from the meeting.
-  Make sure everything is accurate and everyone's on the same page.
-* Probably: Brief status update on the spec (content and organisation).
-* Schedule regular monthly telcons: Tuesday 11-12 am, first week of each month
-  (next dates would be June 7 and July 5)?
-* Please email Christoph and Catherine if you'd like to present something!
+* Materials in the meeting repo have been re-organised a bit.
+  * https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/ is not a summary page
+  * Raw notes from the meeting have been added.
+  * Summary and cleaned up minutes still have to be written (by Christoph, sorry this hasn't happend yet!)
+* Some activity on spec, specifically:
+  * Tarek: Effective area semantics / format: https://github.com/open-gamma-ray-astro/gamma-astro-data-formats/issues/35
+  * Jürgen: Clean up event list spec: https://github.com/open-gamma-ray-astro/gamma-astro-data-formats/pull/39
+* What should we discuss today?
+  * Any updates (feedback from IACTs)?
+  * How to review spec changes (for now)?
+  * Go through action items from the raw minutes?
+* Schedule regular monthly telcons:
+  * OK to pick Tuesday 11-12 am, first week of each month (next dates would be June 7 and July 5)?
+  * or circulate doodle on cta-data and open-gamma-ray-astro mailing lists first?
 
 ## Minutes
 

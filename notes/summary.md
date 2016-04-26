@@ -13,6 +13,6 @@ There were 16 participants from many existing IACTs (HESS, VERITAS, MAGIC, FACT,
 and many people from CTA. This was both CTA meeting (see [CTA Indico page](https://www.cta-observatory.org/indico/conferenceDisplay.py?confId=1101)),
 but it was open to non-CTA members as well.
 
+TODO: write summary.
 
-
-At the meeting we decided to start monthly telcons to make sure we keep in touch.
+For now, the [presentations](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/presentations/README.md) slides and  [raw notes](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/notes/raw_notes.pdf) taken collectively during the meeting are available.
