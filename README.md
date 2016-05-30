@@ -13,3 +13,9 @@ so that they (hopefully) are a useful resource for future discussions and work.
 * The [raw notes](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/notes/raw_notes.pdf) are the notes taken collectively during the meeting.
 * Notes from the [pre-meeting telcon](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/notes/pre-meeting-telcon.md)
 * Notes from the [post-meeting telcon](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/notes/post-meeting-telcon.md)
+
+For convenience, here's links to the collaboration-internal pages on DL3 (not
+private pages, needs login):
+
+* CTA: https://forge.in2p3.fr/projects/model/wiki/DL3-Documentation
+* HESS: https://hess-confluence.desy.de/confluence/display/HESS/HESS+FITS+data
