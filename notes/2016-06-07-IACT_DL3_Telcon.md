@@ -31,7 +31,24 @@ Duration 	02:00
 
 ## Agenda
 
-* tbd
+### Status updates
+
+* Jürgen gave a "DL3 IACT meeting report" at the Kashiwa CTA meeting (see slides [here](https://www.cta-observatory.org/indico/contributionDisplay.py?contribId=60&sessionId=10&confId=1046))
+* Christoph submitted a poster contribution "Open high-level data formats and software for gamma-ray astronomy" for [Gamma 2016](https://www.mpi-hd.mpg.de/hd2016/pages/news.php) (see abstract
+[here](https://github.com/open-gamma-ray-astro/open-gamma-ray-astro-gamma2016))
+* Pull request by Tarek: [Modified effective area format. EFFAREA_RECO column moved to a new HDU. #43](https://github.com/open-gamma-ray-astro/gamma-astro-data-formats/pull/43) after long discussion in [#39](https://github.com/open-gamma-ray-astro/gamma-astro-data-formats/issues/35)
+  * ``EFFAREA_RECO``
+* Pull request by Jürgen: [Change EVENTS and add POINTING #39](https://github.com/open-gamma-ray-astro/gamma-astro-data-formats/pull/39)
+  * Clean up ``EVENTS`` spec
+  * Add [POINTING](http://gamma-astro-data-formats.readthedocs.io/en/latest/events/pointing.html) table
+  * Merged yesterday, some controversial things delayed to other issues (see "to be discussed" below).
+* Pull request by Christoph: TODO: FOV coordinates
+* Pull reuqest by Christoph: TODO: TIME spec
+
+### To be discussed
+
+* https://github.com/open-gamma-ray-astro/gamma-astro-data-formats/issues/52
+
 
 ## Minutes
 
