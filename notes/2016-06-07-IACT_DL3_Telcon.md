@@ -42,13 +42,28 @@ Duration 	02:00
   * Clean up ``EVENTS`` spec
   * Add [POINTING](http://gamma-astro-data-formats.readthedocs.io/en/latest/events/pointing.html) table
   * Merged yesterday, some controversial things delayed to other issues (see "to be discussed" below).
-* Pull request by Christoph: TODO: FOV coordinates
-* Pull reuqest by Christoph: TODO: TIME spec
+* Misc clean-up by Christoph
+* Some work on [high-level specs](http://gamma-astro-data-formats.readthedocs.io/en/latest/results/index.html)
+  (not the topic here):
+  * Flux point and bin-by-bin likelihood profile specs by Matthew Wood (discussion still ongoing in [issue 45](https://github.com/open-gamma-ray-astro/gamma-astro-data-formats/issues/45))
+  * Model specification proposal by Jürgen (see [issue 41](https://github.com/open-gamma-ray-astro/gamma-astro-data-formats/issues/41))
 
 ### To be discussed
 
-* https://github.com/open-gamma-ray-astro/gamma-astro-data-formats/issues/52
-
+* Where to put livetime info in IACT DL3? (see [issue 52](https://github.com/open-gamma-ray-astro/gamma-astro-data-formats/issues/52))
+* Add back `RA_PNT` and `DEC_PNT` to `EVENTS` header? (TODO: link to issue)
+* FOV coordinate proposal (TODO: link to pull request)
+* Data type specification
+  * Most of the spec uses "float" which means any float is valid.
+    Where 64-bit is required (rarely, mostly for TIME), we write "float64".
+  * For the EVENTS spec integer FITS codes like "1J", "1D", "1E"
+    were introduced (see [here](http://gamma-astro-data-formats.readthedocs.io/en/latest/events/events.html))
+  * Data type specifiers should be uniform throughout the spec.
+* Units
+  * Are we agreed that units shouldn't be hard-coded and science tools should read
+    units from the files (also e.g. for IRFs)?
+  * How to specify "physical dimensions" instead of "units" in the spec?
+    (see discussion [here](https://github.com/open-gamma-ray-astro/gamma-astro-data-formats/issues/45#issuecomment-220962019))?
 
 ## Minutes
 
