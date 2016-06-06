@@ -52,7 +52,9 @@ Duration 	02:00
 
 * Where to put livetime info in IACT DL3? (see [issue 52](https://github.com/open-gamma-ray-astro/gamma-astro-data-formats/issues/52))
 * Add back `RA_PNT` and `DEC_PNT` to `EVENTS` header? (TODO: link to issue)
-* FOV coordinate proposal (TODO: link to pull request)
+* FOV coordinate proposal
+  * See description in spec [here](http://gamma-astro-data-formats.readthedocs.io/en/latest/general/coordinates.html#field-of-view)
+  * Use these names for EVENTS columns and BKG_3D IRF axes?
 * Data type specification
   * Most of the spec uses "float" which means any float is valid.
     Where 64-bit is required (rarely, mostly for TIME), we write "float64".
