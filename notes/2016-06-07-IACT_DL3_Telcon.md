@@ -37,7 +37,9 @@ Duration 	02:00
 * Christoph submitted a poster contribution "Open high-level data formats and software for gamma-ray astronomy" for [Gamma 2016](https://www.mpi-hd.mpg.de/hd2016/pages/news.php) (see abstract
 [here](https://github.com/open-gamma-ray-astro/open-gamma-ray-astro-gamma2016))
 * Pull request by Tarek: [Modified effective area format. EFFAREA_RECO column moved to a new HDU. #43](https://github.com/open-gamma-ray-astro/gamma-astro-data-formats/pull/43) after long discussion in [#39](https://github.com/open-gamma-ray-astro/gamma-astro-data-formats/issues/35)
-  * ``EFFAREA_RECO``
+  * See http://gamma-astro-data-formats.readthedocs.io/en/latest/irfs/effective_area/index.html#effective-area-vs-reconstructed-energy
+  * If ``EFFAREA_RECO`` (the combined ``EFFARA`` and ``EDISP`` response) is given, it should be a separate HDU.
+  * Science tools should use the header key ``HDUCLAS2`` keyword to know what kind of response this is ()``EFF_AREA`` vs ``EFF_AREA_RECO``)
 * Pull request by Jürgen: [Change EVENTS and add POINTING #39](https://github.com/open-gamma-ray-astro/gamma-astro-data-formats/pull/39)
   * Clean up ``EVENTS`` spec
   * Add [POINTING](http://gamma-astro-data-formats.readthedocs.io/en/latest/events/pointing.html) table
@@ -51,9 +53,14 @@ Duration 	02:00
 ### To be discussed
 
 * Where to put livetime info in IACT DL3? (see [issue 52](https://github.com/open-gamma-ray-astro/gamma-astro-data-formats/issues/52))
-* Add back `RA_PNT` and `DEC_PNT` to `EVENTS` header? (TODO: link to issue)
+* New EVENTS spec
+  * See [here](http://gamma-astro-data-formats.readthedocs.io/en/latest/events/index.html) and [here](http://gamma-astro-data-formats.readthedocs.io/en/latest/events/events.html)
+  * Christoph proposes to change back two things that were changed in [#39](https://github.com/open-gamma-ray-astro/gamma-astro-data-formats/pull/39):
+    * Add back `RA_PNT` and `DEC_PNT` header keywords
+    * Make FOV coordinate columns ``DETX``, ``DETY`` optional
 * FOV coordinate proposal
-  * See description in spec [here](http://gamma-astro-data-formats.readthedocs.io/en/latest/general/coordinates.html#field-of-view)
+  * See current description in spec [here](http://gamma-astro-data-formats.readthedocs.io/en/latest/general/coordinates.html#field-of-view)
+  * This is a proposal, up for debate today.
   * Use these names for EVENTS columns and BKG_3D IRF axes?
 * Data type specification
   * Most of the spec uses "float" which means any float is valid.
