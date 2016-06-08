@@ -76,6 +76,9 @@ Duration 	02:00
 * Organisation: Christoph didn't send reminders, that's why there were so few
   participants. Will send announcements and reminders for next monthly IACT DL3
   telcon to CTA-DATA and OPEN-GAMMA-RAY-ASTRO mailing lists.
+* We agree to put back `RA_PNT` and `DEC_PNT` in the `EVENTS` header for now,
+  and add a note that DL3 producers and consumers should implement the new
+  `POINTING` table, which will likely be the long-term solution for this info.
 * Where to put livetime info in DL3?
   * This is a key quantity used by most science analyses
     (flux is roughly excess over livetime)
