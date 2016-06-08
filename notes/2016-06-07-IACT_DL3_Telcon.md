@@ -95,8 +95,8 @@ Duration     02:00
     * For now we'll keep it as a header keyword in ``EVENTS``, but storing
       ``LIVETIME`` as a column in the ``GTI`` table seems like a good solution
       to most (all?) telcon participants.
-    * Action item (for Jürgen): inquire in CTA if something is known
-      about how livetime computation will be done already.
+    * **Action item (for Jürgen): inquire in CTA if something is known
+      about how livetime computation will be done already.**
 * FOV coordinates
     * We had a long discussion:
         * Christoph insists on a change to the spec now,
@@ -106,7 +106,7 @@ Duration     02:00
         * Tarek would like to have something more flexible for IRF axes, where
           the current ``BKG_2D`` and ``BKG_3D`` are only different configurations
           of one background model spec.
-    * Action items (for Christoph): in the end we agreed on this for now:
+    * **Action items (for Christoph)**: in the end we agreed on this for now:
         * Define ``BKG_3D`` to be in the ALTAZ aligned FOV system.
         * Keep the simple ``DETX, DETY`` names for those.
         * Make ``DETX, DETY`` optional in the ``EVENTS`` list.
@@ -132,14 +132,14 @@ Duration     02:00
       tools like e.g. Astropy Table), Jürgen and Tarek FITS ttype codes
       (because that's what you have to know when writing C/C++ code based on CFITSIO
       and that is also what's displayed by tools like FTOOLS)
-    * Action item (for Christoph): agree to be explicit about 32 vs 64 bit and
-      put FITS ttype codes for now.
+    * **Action item (for Christoph): agree to be explicit about 32 vs 64 bit and
+      put FITS ttype codes for now.**
 * Units
     * Jürgen thinks units should be fixed (mainly to simplify usage by tools)
     * Christoph and Tarek think that it would be nice to be flexible here
       (e.g. Fermi uses MeV and IACTs use TeV) and take advantage of the fact
       that FITS supports encoding the unit in the FITS header.
     * So no agreement on this point (and the discussion wasn't very long).
-    * Action item (for Christoph): for now, we'll stick with units as specified in the spec,
+    * **Action item (for Christoph): for now, we'll stick with units as specified in the spec,
       and add a note in the general section that it's not clear / agreed if
-      units will be fixed or flexible.
+      units will be fixed or flexible.**
