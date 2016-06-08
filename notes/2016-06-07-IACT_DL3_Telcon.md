@@ -143,3 +143,26 @@ Duration     02:00
     * **Action item (for Christoph): for now, we'll stick with units as specified in the spec,
       and add a note in the general section that it's not clear / agreed if
       units will be fixed or flexible.**
+* General discussion on flexibility in the spec (e.g. data type or units):
+    * Jürgen: By adding multiple options (e.g. not specifying 32 Bit versus 64 Bit, not
+      specifying units) an important burden is added on the interface testing. In
+      principle, any kind of precisions and units that are allowed need to be tested
+      to verify that they are correctly interpreted by any software using the data
+      format. Test data would need to be provided for all combination of options
+      (which could become a large number of test data sets if complete flexibility on
+      the units would be allowed).
+    * Christoph: I agree fixing things has big advantages. But it also comes at a cost of limited
+      flexibility. E.g. IACT people use TeV and Fermi people like MeV and if we fix
+      our formats to either, part of the community won't like our specs. Allowing
+      both TeV and MeV, i.e. not fixing the units, would make it easier to share
+      formats between IACT and space missions. What to fix or leave flexible is 
+      a judgement call also for things other than data type or units. E.g. for times we're allowing the
+      complicated spec via TIMESYS = TT, UTC, ... etc that's defined by the FITS
+      standard, which is very complex to fully support in tools (you basically need to
+      link to a library, like we do in Gammapy via [astropy.time](http://docs.astropy.org/en/latest/time/index.html).
+      So it's not clear to me why we shouldn't also take advantage of the capabilities to specify
+      units and data type, like we do in Gammapy via [astropy.units.format.Fits]  (http://docs.astropy.org/en/latest/api/astropy.units.format.Fits.html) and
+      `astropy.io.fits` / `astropy.table.Table`.
+    * No action item for this general point, we'll just have to discuss where to
+      fix things or leave things flexible one topic at a time, by looking at added
+      value and cost of allowing flexibility.
