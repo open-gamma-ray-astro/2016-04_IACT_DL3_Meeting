@@ -1,8 +1,8 @@
 # 2016-06-07 - Monthly IACT DL3 telcon
 
 * Tuesday, June 7, 2016 at 11 am CEST
-* Duration: 1 hour
-* Participants: 
+* Duration: 1.5 hour
+* Participants: Catherine Boisson, Jürgen Knödlseder, Tarek Hassan, Christoph Deil
 
 ## Connection details
 
@@ -11,7 +11,6 @@ If you have questions how to connect, please email [Catherine Boisson]
 
 Connection from a single terminal:
 * http://desktop.visio.renater.fr/scopia?ID=724922***2763&autojoin
-
 
 Otherwise:
 
@@ -22,12 +21,10 @@ Otherwise:
 * Conference number    724922 (end by #)
 * Password             2763 (end by #)
 
-
 Conference
 Title 	2016 June 7 IACT DL3
 Begin 	07/06/2016 11:00 (GMT +2 Europe/Paris)
 Duration 	02:00
-
 
 ## Agenda
 
@@ -76,4 +73,73 @@ Duration 	02:00
 
 ## Minutes
 
-* tbd
+* Organisation: Christoph didn't send reminders, that's why there were so few
+  participants. Will send announcements and reminders for next monthly IACT DL3
+  telcon to CTA-DATA and OPEN-GAMMA-RAY-ASTRO mailing lists.
+* We agree to put back `RA_PNT` and `DEC_PNT` in the `EVENTS` header for now,
+  and add a note that DL3 producers and consumers should implement the new
+  `POINTING` table, which will likely be the long-term solution for this info.
+* Where to put livetime info in DL3?
+  * This is a key quantity used by most science analyses
+    (flux is roughly excess over livetime)
+    so it's important to handle this well in the DL3 data model.
+  * Christoph explains how it's computed in HESS: consecutive event time
+    difference distribution is fitted with an exponential model and that
+    is used to estimate the dead-time fraction `DEADC`.
+    Then `LIVETIME = DEADC * ONTIME` where ontime is the observation time.
+    So this method needs a certain time interval to compute, the length of
+    which depends on the array and trigger rate.
+    For HESS, it's stable for our 28 min runs, although I'm not sure if e.g.
+    the ParisAnalysis calibration doesn't use shorter time intervals.
+    I don't know how other IACTs compute it or how CTA will compute it.
+  * For now we'll keep it as a header keyword in ``EVENTS``, but storing
+    ``LIVETIME`` as a column in the ``GTI`` table seems like a good solution
+    to most (all?) telcon participants.
+  * Action item (for Jürgen): inquire in CTA if something is known
+    about how livetime computation will be done already.
+* FOV coordinates
+  * We had a long discussion:
+    * Christoph insists on a change to the spec now,
+      to have something well-defined for the upcoming HESS data release.
+    * Jürgen isn't happy with having both ALTAZ and RADEC aligned FOV coordinates
+      in the spec ("too much systems to potentially have to support by tools")
+    * Tarek would like to have something more flexible for IRF axes, where
+      the current ``BKG_2D`` and ``BKG_3D`` are only different configurations
+      of one background model spec.
+  * Action items (for Christoph): in the end we agreed on this for now:
+    * Define ``BKG_3D`` to be in the ALTAZ aligned FOV system.
+    * Keep the simple ``DETX, DETY`` names for those.
+    * Make ``DETX, DETY`` optional in the ``EVENTS`` list.
+    * Simplify the FOV coordinate general section (don't spec names for RADEC FOV).
+ * Data type specification
+   * The discussion is mostly about 32 and 64 bit floats.
+   * In the current spec, ``TIME`` needs to be 64 bit, for the others
+     and most (all?) use cases, 32 bit is enough.
+   * Christoph prefers to have "float" for most columns with the meaning that
+     both 32-bit and 64-bit are valid. The column datatype is in the FITS header
+     and FITS tools can process either without extra effort.
+     Being flexible here has two advantages: 1. no need to make decisions for every
+     single field in the spec now. 2. there can be cases like ``RA / DEC`` where
+     for most data 32-bit is sufficient and means smaller file size, but
+     64-bit can be useful sometimes e.g. for high-precision checks (I had this
+     case this morning). It would be nice if an EVENTS list with 64-bit ``RA/DEC``
+     is still a valid file according to the spec.
+   * Jürgen and Tarek don't see the need for flexibility here and prefer to have
+     everything fixed (to 32 bit, except for TIME which is 64 bit)
+   * A more cosmetic controversial issue was on whether to write "float32" and
+     "float64" or the FITS ttype codes "1E" and "1D" everywhere in the spec.
+   * Christoph prefers "floatXX" (more human-readable and what's displayed by 
+     tools like e.g. Astropy Table), Jürgen and Tarek FITS ttype codes
+     (because that's what you have to know when writing C/C++ code based on CFITSIO
+     and that is also what's displayed by tools like FTOOLS)
+   * Action item (for Christoph): agree to be explicit about 32 vs 64 bit and
+     put FITS ttype codes for now.
+ * Units
+   * Jürgen thinks units should be fixed (mainly to simplify usage by tools)
+   * Christoph and Tarek think that it would be nice to be flexible here
+     (e.g. Fermi uses MeV and IACTs use TeV) and take advantage of the fact
+     that FITS supports encoding the unit in the FITS header.
+   * So no agreement on this point (and the discussion wasn't very long).
+   * Action item (for Christoph): for now, we'll stick with units as specified in the spec,
+     and add a note in the general section that it's not clear / agreed if
+     units will be fixed or flexible.
