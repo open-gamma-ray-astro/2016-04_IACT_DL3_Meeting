@@ -29,7 +29,34 @@ Duration 	02:00
 
 ## Agenda
 
-* tbd
+### Status updates
+
+* Christoph gave a presentation on "Open data and tools for gamma-ray astronomy"
+  ([PDF](http://www.g-vo.org/edp-forum-2016/slides/deil-opengamma.pdf))
+  * Feedback: for sustainability fo the open gamma-ray astronomy spec effort,
+    consider forming a VO interest or working group.
+    * This was discussed over lunch with Catherine Boisson, Mathieu Servillat and
+      Christoph Deil and it wasn't clear to us if forming such an official group
+      would help with organisation and sustainability.
+  * Feedback: consider using [IVOA DataLink](http://www.ivoa.net/documents/DataLink/)
+    for IACT DL3 data links (e.g. link EVENTS to IRFs).
+    * "This document describes the linking of data discovery metadata to access
+       to the data itself, further detailed metadata, related resources,
+       and to services that perform operations on the data."
+    * An XML VOTable file.
+    * Could maybe replace what we do now to link HDUs
+      ([data store in the spec ](http://gamma-astro-data-formats.readthedocs.io/en/latest/data_storage/))
+      which was controversial at the f2f meeting and is probably not the final solution.
+* Spec updates
+  * ...
+
+### To be discussed
+
+* Action items for spec 1.0.
+  * Which are required / optional?
+  * What's the timeline?
+* Maybe: Present and discuss DataLink option?
+* Present and discuss Gamma2016 poster draft.
 
 ## Minutes
 
