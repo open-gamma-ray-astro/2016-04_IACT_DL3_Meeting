@@ -38,16 +38,26 @@ Duration 	02:00
     * This was discussed over lunch with Catherine Boisson, Mathieu Servillat and
       Christoph Deil and it wasn't clear to us if forming such an official group
       would help with organisation and sustainability.
+    * No plan to pursue this for now.
   * Feedback: consider using [IVOA DataLink](http://www.ivoa.net/documents/DataLink/)
     for IACT DL3 data links (e.g. link EVENTS to IRFs).
     * "This document describes the linking of data discovery metadata to access
        to the data itself, further detailed metadata, related resources,
        and to services that perform operations on the data."
+    * Let's discuss today if this is an option worth looking into more
+      (more info below).
 * Spec updates
-  * Very little progress.
+  * Very little progress in the past month.
+  * https://github.com/open-gamma-ray-astro/gamma-astro-data-formats/pulls?q=is%3Apr+is%3Aclosed
+  * Everyone: if you want to make some addition or change, please try to
+    make a pull requests, i.e. concrete proposal, instead of "just" an issue.
 * Christoph: I haven't gotten around to making the
 [Gamma 2016 conference poster for open-gamma-ray-astro](https://github.com/open-gamma-ray-astro/open-gamma-ray-astro-gamma2016).
 I'll try to do it tonight or tomorrow latest and then circulate for feedback.
+* Next monthly IACT DL3 telcons:
+  * Tuesday, August 2, 2016 at 11 am CEST
+    * Who is available? Should we skip that one or do it?
+  * Tuesday, September 6, 2016 at 11 am CEST
 
 ### To be discussed
 
@@ -71,10 +81,16 @@ I'll try to do it tonight or tomorrow latest and then circulate for feedback.
   * Could maybe replace what we do now to link HDUs
     ([data store in the spec ](http://gamma-astro-data-formats.readthedocs.io/en/latest/data_storage/))
     which was controversial at the f2f meeting and is probably not the final solution.
-
+  * ctools are using the "observation definition" XML files that connect events / IRFs.
+    How is this the same or different from VO DATALINK?
+    Should we adopt it?
+  * An alternative could be to use the FITS grouping convention, where the linking
+    info is in an extra table HDU.
 * How IRF arrays should be filled / used for invalid parameter ranges (e.g. low energy).
-  * Spec doesn't say at the moment.
-  * threshold keywords
+  * Spec doesn't say at the moment, we have some threshold keywords.
+  * In HESS we sometimes fill zeros, sometimes `NaN` values.
+  * This is important, science tools need to know what cuts to apply.
+    See e.g. https://github.com/gammapy/gammapy/issues/589
 
 ## Minutes
 
