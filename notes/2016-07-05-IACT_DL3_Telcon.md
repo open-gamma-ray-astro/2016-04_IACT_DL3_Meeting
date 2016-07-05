@@ -96,3 +96,5 @@ I'll try to do it tonight or tomorrow latest and then circulate for feedback.
 ## Minutes
 
 * tbd
+* Tarek reported on MAGIC DL3 activities: A working group have been created and quite some development has been already performed to convert MAGIC data products into the open DL3 format. Still very preliminary, but the pipeline already produces event lists and most IRFs. Science tools should be tested in the comming months.
+* Catherine proposed a second f2f meeting in September/October. Jose Luis said he was thinking about a global Data Model meeting, so both could be merged (keeping in mind the DL3 meeting would be open to the whole community).
