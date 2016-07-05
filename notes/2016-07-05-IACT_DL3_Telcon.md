@@ -43,20 +43,38 @@ Duration 	02:00
     * "This document describes the linking of data discovery metadata to access
        to the data itself, further detailed metadata, related resources,
        and to services that perform operations on the data."
-    * An XML VOTable file.
-    * Could maybe replace what we do now to link HDUs
-      ([data store in the spec ](http://gamma-astro-data-formats.readthedocs.io/en/latest/data_storage/))
-      which was controversial at the f2f meeting and is probably not the final solution.
 * Spec updates
-  * ...
+  * Very little progress.
+* Christoph: I haven't gotten around to making the
+[Gamma 2016 conference poster for open-gamma-ray-astro](https://github.com/open-gamma-ray-astro/open-gamma-ray-astro-gamma2016).
+I'll try to do it tonight or tomorrow latest and then circulate for feedback.
 
 ### To be discussed
 
-* Action items for spec 1.0.
-  * Which are required / optional?
-  * What's the timeline?
-* Maybe: Present and discuss DataLink option?
-* Present and discuss Gamma2016 poster draft.
+* Open pull requests and issues:
+  * [PR 40: Add script to generate event template file, add also template file.](https://github.com/open-gamma-ray-astro/gamma-astro-data-formats/pull/40)
+  * [PR 61: Add light curve spec (a first draft)](https://github.com/open-gamma-ray-astro/gamma-astro-data-formats/pull/61)
+    * See discussion on how to handle different quantities / units for that application.
+    * This is DL4, but still, the main question is how different quantities
+      (differential flux, integral flux, energy flux) should be supported and
+      whether units should be flexible or fixed.
+    * Options for different quantities:
+      A. one column "flux" and header key declaring which quantity it is
+      B. three columns, requirement is that one out of three is present.
+  * [Issue 63: Consistent column names within IRFs](https://github.com/open-gamma-ray-astro/gamma-astro-data-formats/issues/63)
+  * Any progress / anything actionable on the question how to deal with livetime
+    in DL3 that we already discussed in the last telcon?
+    * [Issue 52: Where to put livetime info in IACT DL3?](https://github.com/open-gamma-ray-astro/gamma-astro-data-formats/issues/52)
+    * [Issue 62: How to handle energy dependent deadtime/livetime?](https://github.com/open-gamma-ray-astro/gamma-astro-data-formats/issues/62)
+* IACT DL3 data link via an XML file?
+  * An XML VOTable file.
+  * Could maybe replace what we do now to link HDUs
+    ([data store in the spec ](http://gamma-astro-data-formats.readthedocs.io/en/latest/data_storage/))
+    which was controversial at the f2f meeting and is probably not the final solution.
+
+* How IRF arrays should be filled / used for invalid parameter ranges (e.g. low energy).
+  * Spec doesn't say at the moment.
+  * threshold keywords
 
 ## Minutes
 
