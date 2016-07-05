@@ -54,6 +54,7 @@ Duration 	02:00
 * Christoph: I haven't gotten around to making the
 [Gamma 2016 conference poster for open-gamma-ray-astro](https://github.com/open-gamma-ray-astro/open-gamma-ray-astro-gamma2016).
 I'll try to do it tonight or tomorrow latest and then circulate for feedback.
+* Update on MAGIC DL3 activities
 * Next monthly IACT DL3 telcons:
   * Tuesday, August 2, 2016 at 11 am CEST
     * Who is available? Should we skip that one or do it?
