@@ -23,7 +23,7 @@ Otherwise:
     Conference number 728394 (end by #)
     Password 1339 (end by #)
 
-Conference Title 2016 September 5 IACT DL3 Begin 05/09/2016 11:00 (GMT +2 Europe/Paris) Duration 02:00
+Conference Title 2016 September 6 IACT DL3 Begin 05/09/2016 11:00 (GMT +2 Europe/Paris) Duration 02:00
 
 ## Agenda
 
