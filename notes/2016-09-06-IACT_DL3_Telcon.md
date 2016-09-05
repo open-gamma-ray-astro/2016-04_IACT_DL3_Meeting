@@ -44,8 +44,14 @@ Proceeding due in October, Christoph will write a draft.
 * A second face-to-face meeting to follow up on the one from April 2016
   in Meudon
   * Christoph or Catherine could host in Heidelberg or Paris.
-  * Duration 3 or 4 or 5 days?
-  * Focus just on IACT DL3, or also allow DL4, DL5 format discussions?
+  * Duration: 3 or 4 or 5 days?
+  * Focus just on IACT DL3, or also allow (parallel) session on
+    * DL4, DL5 format spec
+    * Connection to lower-level info, e.g. MC parameters
+    * Multi-messenger use cases or how to support e.g. HAWC with similar formats.
+    * CTA data challenge
+  * When?
+    * October doesn't work
 
 * Anything else?
 

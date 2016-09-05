@@ -2,12 +2,12 @@
 
 * Tuesday, July 5, 2016 at 11 am CEST
 * Duration: 1 hour
-* Participants: 
+* Participants: Catherine Boisson, Jose-Luis Contreras, Tarek Hassan,
+  Christoph Deil, Andrew Chen
 
 ## Connection details
 
-If you have questions how to connect, please email [Catherine Boisson]
-(http://www.iau.org/administration/membership/individual/7665/)
+If you have questions how to connect, please email [Catherine Boisson](http://www.iau.org/administration/membership/individual/7665/)
 
 Connection from a single terminal:
 * http://desktop.visio.renater.fr/scopia?ID=724011***3757&autojoin
@@ -47,18 +47,11 @@ Duration 	02:00
     * Let's discuss today if this is an option worth looking into more
       (more info below).
 * Spec updates
-  * Very little progress in the past month.
-  * https://github.com/open-gamma-ray-astro/gamma-astro-data-formats/pulls?q=is%3Apr+is%3Aclosed
+  * Very little progress in the past month (see [closed pull requests](https://github.com/open-gamma-ray-astro/gamma-astro-data-formats/pulls?q=is%3Apr+is%3Aclosed)).
   * Everyone: if you want to make some addition or change, please try to
     make a pull requests, i.e. concrete proposal, instead of "just" an issue.
-* Christoph: I haven't gotten around to making the
-[Gamma 2016 conference poster for open-gamma-ray-astro](https://github.com/open-gamma-ray-astro/open-gamma-ray-astro-gamma2016).
-I'll try to do it tonight or tomorrow latest and then circulate for feedback.
+* Christoph: I haven't gotten around to making the [Gamma 2016 conference poster for open-gamma-ray-astro](https://github.com/open-gamma-ray-astro/open-gamma-ray-astro-gamma2016). I'll try to do it tonight or tomorrow latest and then circulate for feedback.
 * Update on MAGIC DL3 activities
-* Next monthly IACT DL3 telcons:
-  * Tuesday, August 2, 2016 at 11 am CEST
-    * Who is available? Should we skip that one or do it?
-  * Tuesday, September 6, 2016 at 11 am CEST
 
 ### To be discussed
 
@@ -95,6 +88,12 @@ I'll try to do it tonight or tomorrow latest and then circulate for feedback.
 
 ## Minutes
 
-* tbd
-* Tarek reported on MAGIC DL3 activities: A working group have been created and quite some development has been already performed to convert MAGIC data products into the open DL3 format. Still very preliminary, but the pipeline already produces event lists and most IRFs. Science tools should be tested in the comming months.
-* Catherine proposed a second f2f meeting in September/October. Jose Luis said he was thinking about a global Data Model meeting, so both could be merged (keeping in mind the DL3 meeting would be open to the whole community).
+* Tarek reported on MAGIC DL3 activities: A working group have been created and
+quite some development has been already performed to convert MAGIC data products
+into the open DL3 format. Still very preliminary, but the pipeline already
+produces event lists and most IRFs. Science tools should be tested in the
+comming months.
+* Catherine proposed a second f2f meeting in September/October. Jose Luis said he
+was thinking about a global Data Model meeting, so both could be merged (keeping
+in mind the DL3 meeting would be open to the whole community).
+* We decided to skip the monthly telcon in August, because most people are on holiday. Next one will be September 6.
