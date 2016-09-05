@@ -29,11 +29,25 @@ Conference Title 2016 September 6 IACT DL3 Begin 05/09/2016 11:00 (GMT +2 Europe
 
 ### Status updates
 
-* tbd
+* There hasn't been much progress since the last telcon July 5, 2015,
+  due to the summer break. Let's get started again!
+* Poster "Open high-level data formats and software for gamma-ray astronomy"
+was presented at the Gamma 2016 conference (see [PDF](https://github.com/open-gamma-ray-astro/open-gamma-ray-astro-gamma2016/blob/master/open-gamma-ray-astro-gamma2016.pdf).
+Proceeding due in October, Christoph will write a draft.
+
+
+* Any further contributions (updates from CTA or other IACTs, updates from science tools, anything else)?
 
 ### To be discussed
 
-* tbd
+* [Issue 64: Change OBS_ID keyword from integer to string](https://github.com/open-gamma-ray-astro/gamma-astro-data-formats/issues/64)
+* A second face-to-face meeting to follow up on the one from April 2016
+  in Meudon
+  * Christoph or Catherine could host in Heidelberg or Paris.
+  * Duration 3 or 4 or 5 days?
+  * Focus just on IACT DL3, or also allow DL4, DL5 format discussions?
+
+* Anything else?
 
 ## Minutes
 
