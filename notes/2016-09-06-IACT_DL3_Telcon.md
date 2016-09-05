@@ -32,7 +32,7 @@ Conference Title 2016 September 6 IACT DL3 Begin 05/09/2016 11:00 (GMT +2 Europe
 * There hasn't been much progress since the last telcon July 5, 2015,
   due to the summer break. Let's get started again!
 * Poster "Open high-level data formats and software for gamma-ray astronomy"
-was presented at the Gamma 2016 conference (see [PDF](https://github.com/open-gamma-ray-astro/open-gamma-ray-astro-gamma2016/blob/master/open-gamma-ray-astro-gamma2016.pdf).
+was presented at the Gamma 2016 conference (see [PDF](https://github.com/open-gamma-ray-astro/open-gamma-ray-astro-gamma2016/blob/master/open-gamma-ray-astro-gamma2016.pdf)).
 Proceeding due in October, Christoph will write a draft.
 
 
@@ -50,8 +50,11 @@ Proceeding due in October, Christoph will write a draft.
     * Connection to lower-level info, e.g. MC parameters
     * Multi-messenger use cases or how to support e.g. HAWC with similar formats.
     * CTA data challenge
+    * anything else?
   * When?
-    * October doesn't work
+    * October doesn't work (ctapipe, ADASS, CTA meeting)
+    * Before we circulate a Doodle, do you know of any weeks that should
+      be avoided in November or December?
 
 * Anything else?
 
