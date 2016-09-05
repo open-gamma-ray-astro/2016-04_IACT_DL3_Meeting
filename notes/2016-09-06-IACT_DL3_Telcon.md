@@ -55,7 +55,7 @@ Proceeding due in October, Christoph will write a draft.
     * October doesn't work (ctapipe, ADASS, CTA meeting)
     * Before we circulate a Doodle, do you know of any weeks that should
       be avoided in November or December?
-
+* (Very) Short update on MAGIC-DL3 activities
 * Anything else?
 
 ## Minutes
