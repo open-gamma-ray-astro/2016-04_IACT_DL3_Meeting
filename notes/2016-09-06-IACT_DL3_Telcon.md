@@ -83,7 +83,7 @@ A or other IACTs, updates from science tools, anything else)?
         as a recent project started to collect IACT DL4 data.
   * Duration:
     * Christoph prefers full week, so that work gets done.
-    * Catherin can't on Mondays, so prefers start on Tuesday.
+    * Catherine can't on Mondays, so prefers start on Tuesday.
   * Christoph will circulate Doodle soon with all weeks in November as option
     as well as the two weeks in December before Christmas.
 * Next monthly telcon will be October 4, 2016 at 11 am (see [here](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/notes/2016-10-04-IACT_DL3_Telcon.md)).
