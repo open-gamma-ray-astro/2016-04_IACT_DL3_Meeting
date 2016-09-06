@@ -3,7 +3,7 @@
 * Tuesday, September 6, 2016 at 11 am CEST
 * Duration: 1 hour
 * Participants: Catherine Boisson, Tarek Hassan, Jaime Rosado,
-  José Luis Contreras, Daniela Dorner, Christoph Deil, Mathieu Servillat?
+  José Luis Contreras, Daniela Dorner, Christoph Deil, Mathieu Servillat
 
 ## Connection details
 
