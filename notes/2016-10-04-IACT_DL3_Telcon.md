@@ -1,8 +1,8 @@
 # 2016-10-04 - Monthly IACT DL3 telcon
 
 * Tuesday, October 4, 2016 at 11 am CEST
-* Duration: 1 hour
-* Participants: tbd
+* Duration: 40 min
+* Participants: Catherine Boisson, Tarek Hassan, Christoph Deil
 
 ## Connection details
 
@@ -33,5 +33,5 @@ Conference Title 2016 Sept. 4 IACT DL3 Begin 04/09/2016 11:00 (GMT +2 Europe/Par
 
 ## Minutes
 
-* The next telcon will be November 9th, 2016 at 11 am.
+* The next telcon will be November 8th, 2016 at 11 am.
   (see connection details and agenda [here](https://github.com/open-gamma-ray-astro/2016-04_IACT_DL3_Meeting/blob/master/notes/2016-11-09-IACT_DL3_Telcon.md)).
