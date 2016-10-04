@@ -25,10 +25,10 @@ Conference Title 2016 Sept. 4 IACT DL3 Begin 04/09/2016 11:00 (GMT +2 Europe/Par
 
 ## Agenda
 
-* There hasn't been much activity in the past month. Anything to report from the collaborations (CTA, HESS, MAGIC, ...?) or tools (Gammapy, ctools, ...)?
-* For Gammapy, we wrote an IPython notebook (work in progress) about [IACT DL3 data with Gammapy](http://nbviewer.jupyter.org/github/gammapy/gammapy-extra/blob/master/notebooks/data_iact.ipynb). We'll do some more cleanup and add docs and then release Gammapy 0.5 in October.
 * Please have a look at the "Open high-level data formats and software for gamma-ray astronomy" Gamma 2016 proceeding draft [PDF](https://github.com/open-gamma-ray-astro/open-gamma-ray-astro-gamma2016/blob/master/proceeding/open-gamma-ray-astro-gamma2016.pdf). Please send feedback today or mention it now, in the telcon.
+* Proposal: Change safe energy header keywords. See [PR 66](https://github.com/open-gamma-ray-astro/gamma-astro-data-formats/issues/66)
 * If you care about formats for spectra, please review [PR 65](https://github.com/open-gamma-ray-astro/gamma-astro-data-formats/pull/65) now.
+* For Gammapy, we wrote an IPython notebook (work in progress) about [IACT DL3 data with Gammapy](http://nbviewer.jupyter.org/github/gammapy/gammapy-extra/blob/master/notebooks/data_iact.ipynb). We'll do some more cleanup and add docs and then release Gammapy 0.5 in October.
 * TODO: Link to form for next f2f meeting.
 
 ## Minutes
